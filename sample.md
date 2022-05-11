@@ -8,3 +8,6 @@ menu:
     title: sample
 
 ---
+# Hello everyone !!
+
+## Welcome to our page!
