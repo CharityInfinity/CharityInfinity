@@ -72,7 +72,7 @@ page_sections:
   content: "<p>There are only two ways for generating corpus fund :</p><ol><li><p>15%
     of the remaining amount from the general fund can be transferred to Corpus.</p></li><li><p>The
     donation needs to be Corpus donation where the donor needs to mention that in
-    the written manner.</p></li></ol>"
+    the written manner..</p></li></ol>"
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in India
