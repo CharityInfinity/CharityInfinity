@@ -23,7 +23,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: uBuild <br><strong>design blocks</strong>
+  headline: "<strong>Charity Infinity</strong><br>Help NGOs"
   content: This page helps every NGO with their funding problems. Most of the problem
     will be resolved using Corpus funding
   cta:
