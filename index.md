@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2022/05/11/charity-infinity.png"
   navigation:
-  - link: "/"
+  - link: "/sample.md"
     link_text: what is CI?
   - link: "/"
     link_text: Charity Infinity
