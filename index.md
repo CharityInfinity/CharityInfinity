@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
   - link: "/"
-    link_text: Ubuild
+    link_text: Charity Infinity
   - link: "#swap"
     link_text: what we do?
   - link: "#customize"
