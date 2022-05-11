@@ -49,10 +49,9 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+  headline: "<strong>Charity Infinity is an NGO.</strong>"
+  content: Charity infinity is an NGO which helps and create awareness to all other
+    NGOs.
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
