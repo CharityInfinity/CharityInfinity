@@ -8,6 +8,8 @@ page_sections:
   logo: "/uploads/2022/05/11/charity-infinity.png"
   navigation:
   - link: "/"
+    link_text: what is CI?
+  - link: "/"
     link_text: Charity Infinity
   - link: "#swap"
     link_text: what we do?
@@ -76,5 +78,9 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in India
+- template: signup-bar
+  block: cta-bar
+  content: ''
+  email_recipient: ''
 
 ---
