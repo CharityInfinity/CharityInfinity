@@ -38,10 +38,10 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  headline: "<strong>Make some awareness about corpus funding</strong>"
+  content: Most of the NGOs don't have the awareness about corpus funding , that only
+    helps them to sustain more longer, because general funding needs to be spent 85%
+    within that year but corpus isn't like that.
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
