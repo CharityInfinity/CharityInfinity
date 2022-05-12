@@ -7,16 +7,9 @@ fields:
   label: block
   name: block
   default: footer-1
-- type: textarea
-  label: Footer Text
-  name: content
-  config:
-    wysiwyg: true
-    schema:
-      format: html
 - name: random
   type: textarea
-  default: ''
+  default: End of Charity infinity
   config:
     required: false
     wysiwyg: true
@@ -24,3 +17,10 @@ fields:
       format: markdown
   label: random
   description: enter something
+- type: textarea
+  label: Footer Text
+  name: content
+  config:
+    wysiwyg: true
+    schema:
+      format: html
