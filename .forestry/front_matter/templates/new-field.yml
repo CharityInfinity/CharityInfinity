@@ -46,7 +46,8 @@ fields:
   - name: button
     type: blocks
     label: button
-    template_types: []
+    template_types:
+    - text-1
     config:
       min: 
       max: 
