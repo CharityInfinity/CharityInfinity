@@ -16,7 +16,7 @@ sections:
   label: Pages
   create: all
   match: "*.md"
-  exclude: "*Homepage"
+  exclude: "*README.md"
   new_doc_ext: md
   templates:
   - new-field
