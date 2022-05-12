@@ -83,6 +83,13 @@ page_sections:
   toggle-for-sample: true
   region: Charity Infinity
   description: nice to see!!!
+  group:
+  - headline: Buy $20
+    description: Premium pro is $20
+  - headline: Buy $10
+    description: Premium is $10
+  - headline: Free
+    description: Buy it for free
 - template: signup-bar
   block: cta-bar
   content: ''
