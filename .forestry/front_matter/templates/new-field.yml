@@ -2,9 +2,9 @@
 label: new field
 hide_body: true
 fields:
-- name: text
+- name: region
   type: text
   config:
-    required: false
-  label: text
+    required: true
   description: sample field
+  label: region
