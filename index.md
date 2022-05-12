@@ -5,7 +5,8 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2022/05/11/charity-infinity.png"
+  background_image: "/uploads/2022/05/11/charity-infinity.png"
+  # logo: "/uploads/2022/05/11/charity-infinity.png"
   navigation:
   - link: "/sample.md"
     link_text: what is CI?
