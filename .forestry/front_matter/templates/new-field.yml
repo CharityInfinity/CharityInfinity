@@ -1,6 +1,7 @@
 ---
-label: new field
+label: new-field
 hide_body: true
+display_field: region
 fields:
 - name: region
   type: text
