@@ -93,7 +93,11 @@ page_sections:
       content: "<p>hello hit me</p>"
   - headline: Buy $10
     description: Premium is $10
-    button: []
+    button:
+    - template: text-1
+      block: text-1
+      headline: hit me
+      content: "<p>hello hit me</p>"
   - headline: Free
     description: Buy it for free
     button: []
