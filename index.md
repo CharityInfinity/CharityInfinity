@@ -100,7 +100,11 @@ page_sections:
       content: "<p>hello hit me</p>"
   - headline: Free
     description: Buy it for free
-    button: []
+    button:
+    - template: text-1
+      block: text-1
+      headline: hit me
+      content: "<p>hello hit me</p>"
 - template: signup-bar
   block: cta-bar
   content: ''
