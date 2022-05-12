@@ -86,10 +86,17 @@ page_sections:
   group:
   - headline: Buy $20
     description: Premium pro is $20
+    button:
+    - template: text-1
+      block: text-1
+      headline: hit  me
+      content: "<p>hello hit me</p>"
   - headline: Buy $10
     description: Premium is $10
+    button: []
   - headline: Free
     description: Buy it for free
+    button: []
 - template: signup-bar
   block: cta-bar
   content: ''
