@@ -6,5 +6,12 @@ fields:
   type: text
   config:
     required: true
-  description: sample field
+  description: "<strong>sample field</strong>"
   label: region
+  showOnly:
+    field: toggle-for-sample
+    value: true
+- name: toggle-for-sample
+  type: boolean
+  label: toggle-for-sample
+  default: true
