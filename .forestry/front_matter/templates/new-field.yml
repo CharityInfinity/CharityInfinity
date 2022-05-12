@@ -1,4 +1,10 @@
 ---
 label: new field
 hide_body: true
-fields: []
+fields:
+- name: text
+  type: text
+  config:
+    required: false
+  label: text
+  description: sample field
