@@ -26,3 +26,25 @@ fields:
   type: boolean
   label: toggle-for-sample
   default: true
+- name: group
+  type: field_group_list
+  fields:
+  - name: headline
+    type: text
+    config:
+      required: false
+    label: Headline
+  - name: description
+    type: textarea
+    default: Enter anything
+    config:
+      required: true
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Description
+  config:
+    min: 3
+    max: 
+    labelField: 
+  label: group
