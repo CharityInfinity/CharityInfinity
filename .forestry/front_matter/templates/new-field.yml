@@ -12,6 +12,16 @@ fields:
   showOnly:
     field: toggle-for-sample
     value: true
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: description
+  description: hello everyone!!!!
 - name: toggle-for-sample
   type: boolean
   label: toggle-for-sample

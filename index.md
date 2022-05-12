@@ -79,12 +79,13 @@ page_sections:
   block: footer-1
   content: Made with ❤︎ in India
   random: ''
+- template: new-field
+  toggle-for-sample: true
+  region: Charity Infinity
+  description: nice to see!!!
 - template: signup-bar
   block: cta-bar
   content: ''
   email_recipient: ''
-- template: new-field
-  toggle-for-sample: true
-  region: Charity Infinity
 
 ---
