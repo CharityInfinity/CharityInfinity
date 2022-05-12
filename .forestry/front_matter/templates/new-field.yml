@@ -43,6 +43,13 @@ fields:
       schema:
         format: markdown
     label: Description
+  - name: button
+    type: blocks
+    label: button
+    template_types: []
+    config:
+      min: 
+      max: 
   config:
     min: 3
     max: 
