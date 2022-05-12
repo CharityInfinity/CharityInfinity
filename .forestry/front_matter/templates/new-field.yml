@@ -6,7 +6,7 @@ fields:
 - name: region
   type: text
   config:
-    required: true
+    required: false
   description: "<strong>sample field</strong>"
   label: region
   showOnly:

@@ -8,7 +8,6 @@ page_sections:
   logo:
     image: "/uploads/2022/05/11/charity-infinity.png"
     alt_text: charity-infinity
-  #logo: "/uploads/2022/05/11/charity-infinity.png"
   navigation:
   - link: "/sample.md"
     link_text: what is CI?
@@ -84,7 +83,7 @@ page_sections:
   random: ''
 - template: new-field
   toggle-for-sample: true
-  region: Charity Infinity
+  region: ''
   description: nice to see!!!
   group:
   - headline: Buy $20
