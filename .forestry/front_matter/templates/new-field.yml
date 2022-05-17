@@ -1,4 +1,9 @@
 ---
 label: new-field
 hide_body: false
-fields: []
+fields:
+- name: empty
+  type: text
+  config:
+    required: false
+  label: empty
