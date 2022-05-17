@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22T23:00:00.000+00:00
+date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -38,32 +38,6 @@ page_sections:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
-- template: new-field
-  toggle-for-sample: true
-  region: ''
-  description: nice to see!!!
-  group:
-  - headline: Buy $20
-    description: Premium pro is $20
-    button:
-    - template: text-1
-      block: text-1
-      headline: hit  me
-      content: "<p>hello hit me</p>"
-  - headline: Buy $10
-    description: Premium is $10
-    button:
-    - template: text-1
-      block: text-1
-      headline: hit me
-      content: "<p>hello hit me</p>"
-  - headline: Free
-    description: Buy it for free
-    button:
-    - template: text-1
-      block: text-1
-      headline: hit me
-      content: "<p>hello hit me</p>"
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -111,5 +85,6 @@ page_sections:
   block: cta-bar
   content: ''
   email_recipient: ''
+published: false
 
 ---
