@@ -1,9 +1,0 @@
----
-label: new-field
-hide_body: false
-fields:
-- name: empty
-  type: text
-  config:
-    required: false
-  label: empty
