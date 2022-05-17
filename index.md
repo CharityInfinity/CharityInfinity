@@ -9,7 +9,7 @@ page_sections:
     image: "/uploads/2022/05/11/charity-infinity.png"
     alt_text: charity-infinity
   navigation:
-  - link: "#charity"
+  - link: "/new-sample-page.md"
     link_text: what is CI?
   - link: "/"
     link_text: Charity Infinity
