@@ -1,4 +1,23 @@
 ---
 label: new-sample-page
 hide_body: true
-fields: []
+fields:
+- name: invisible
+  type: text
+  config:
+    required: false
+  label: invisible
+- name: visible_desc
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: visible desc
+- name: image-upload
+  type: file
+  config:
+    maxSize: 64
+  label: image-upload
