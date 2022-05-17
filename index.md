@@ -9,7 +9,7 @@ page_sections:
     image: "/uploads/2022/05/11/charity-infinity.png"
     alt_text: charity-infinity
   navigation:
-  - link: "/new-sample-page"
+  - link: "https://akashmanoharan.github.io/new-sample-page"
     link_text: what is CI?
   - link: "/"
     link_text: Charity Infinity
