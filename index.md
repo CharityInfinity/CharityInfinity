@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22 23:00:00 +0000
+date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -9,7 +9,7 @@ page_sections:
     image: "/uploads/2022/05/11/charity-infinity.png"
     alt_text: charity-infinity
   navigation:
-  - link: "/sample.md"
+  - link: "#charity"
     link_text: what is CI?
   - link: "/"
     link_text: Charity Infinity
