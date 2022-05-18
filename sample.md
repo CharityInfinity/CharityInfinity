@@ -31,7 +31,7 @@ page_sections:
   background_image: ''
   image:
     image: ''
-    alt_text: ''
+    alt_text: Charity Infinity helps every NGOs to know more about the corpus funding
   headline: ''
   content: ''
   cta:
