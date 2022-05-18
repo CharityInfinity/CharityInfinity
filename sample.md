@@ -14,14 +14,12 @@ group:
   description: buy it for free of cost
 layout: blocks
 page_sections:
-- template: navigation-header
-  block: header-1
-  logo: ''
-  navigation: []
 - template: navigation-header-w-button
   block: header-2
   logo: ''
-  navigation: []
+  navigation:
+  - link: "/"
+    link_text: Homepage
   cta:
     url: ''
     button_text: ''
