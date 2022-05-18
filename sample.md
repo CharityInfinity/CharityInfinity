@@ -35,7 +35,7 @@ page_sections:
     image: ''
     alt_text: ''
   slug: ''
-title: ''
+title: What is CI?
 date: 
 
 ---
