@@ -27,8 +27,8 @@ page_sections:
   block: hero-2
   background_image: "/uploads/2018/06/21/charity-infinity.png"
   image:
-    image: ''
-    alt_text: ''
+    image: "/uploads/2022/05/12/back.jpg"
+    alt_text: ngo chain
   headline: ''
   content: ''
   cta:
