@@ -12,12 +12,8 @@ group:
   description: Premium is $10
 - headline: Free
   description: buy it for free of cost
-menu:
-  main:
-    weight: 2
-    title: sample
 
 ---
-# Hello everyone !!
+# Helping the NGOs!!
 
-## Welcome to our page!
+## Charity Infinity helps the NGOs to get and know more about Corpus funding.

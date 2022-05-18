@@ -33,6 +33,6 @@ fields:
   - 4-column-footer
   - new-sample-page
 pages:
-- sample.md
-- may18.md
 - index.md
+- index.md
+- sample.md
