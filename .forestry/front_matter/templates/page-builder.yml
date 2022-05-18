@@ -34,5 +34,5 @@ fields:
   - new-sample-page
 pages:
 - index.md
+- index.md
 - sample.md
-- new-sample-page.md
