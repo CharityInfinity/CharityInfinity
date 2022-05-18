@@ -11,7 +11,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Charity Infinity
-  - link: "#swap"
+  - link: "/sample"
     link_text: what we do?
   - link: "#customize"
     link_text: About Us
