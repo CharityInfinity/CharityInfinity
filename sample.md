@@ -27,7 +27,7 @@ page_sections:
   block: hero-2
   background_image: "/uploads/2018/06/21/charity-infinity.png"
   image:
-    image: "/uploads/2022/05/12/back.jpg"
+    image: ''
     alt_text: ngo chain
   headline: Charity Chain
   content: ''
