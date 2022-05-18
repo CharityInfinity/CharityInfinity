@@ -25,7 +25,7 @@ page_sections:
     button_text: ''
 - template: simple-header
   block: header-3
-  logo: ''
+  logo: "/uploads/2018/06/21/charity-infinity.png"
 - template: hero-banner-w-image
   block: hero-2
   background_image: ''
