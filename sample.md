@@ -26,27 +26,15 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: "/uploads/2018/06/21/charity-infinity.png"
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: ''
-  image:
-    image: ''
-    alt_text: Charity Infinity helps every NGOs to know more about the corpus funding
-  headline: ''
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: ''
-  slug: ''
-  content: ''
+  headline: Charity Infinity
+  content: CI helps everyone to know more about corpus funding
   media:
     image: ''
     alt_text: ''
+  slug: ''
 title: ''
 date: 
 
