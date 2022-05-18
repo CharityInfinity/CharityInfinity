@@ -29,7 +29,7 @@ page_sections:
   image:
     image: "/uploads/2022/05/12/back.jpg"
     alt_text: ngo chain
-  headline: ''
+  headline: Charity Chain
   content: ''
   cta:
     enabled: false
