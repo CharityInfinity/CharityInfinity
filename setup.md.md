@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: setup.md
+title: setup
 date: 
 page_sections: []
 
