@@ -22,21 +22,6 @@ page_sections:
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
-- template: hero-banner-w-image
-  block: hero-2
-  slug: features
-  headline: "<strong>Purpose Of Charity Infinity</strong>"
-  content: <em><span class="TextRun  BCX0 SCXP167130935">A way for anyone to donate
-    infinitely to an NGO of their choice till the end of economy, humanity, time and
-    earth.</span></em><span class="EOP  BCX0 SCXP167130935">​</span>
-  cta:
-    enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
-  image:
-    image: "/uploads/2022/05/23/hover-ngo.png"
-    alt_text: NGO Image
-  background_image: "/uploads/2018/06/21/charity-infinity.png"
 - template: content-feature
   block: feature-1
   media_alignment: Right
