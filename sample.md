@@ -18,10 +18,12 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/charity-infinity.png"
   navigation:
-  - link: "/sample"
-    link_text: What is Corpus Fund?
+  - link: "/"
+    link_text: How to setup a Corpus Fund?
   - link: "/"
     link_text: Homepage
+  - link: "/sample"
+    link_text: What is Corpus Fund?
   cta:
     url: ''
     button_text: ''
