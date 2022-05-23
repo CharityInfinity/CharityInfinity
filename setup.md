@@ -65,5 +65,9 @@ page_sections:
   media:
     image: "/uploads/2022/05/23/fund-raiser.webp"
     alt_text: ''
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ in India
+  random: ''
 
 ---
