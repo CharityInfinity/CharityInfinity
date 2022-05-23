@@ -19,7 +19,7 @@ page_sections:
     link_text: Add your NGO
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: "<strong>How to setup Corpus Fund?</strong>"
   slug: ''
   content: "<strong>How these corpus funds are created?<br><br></strong>Corpus funds
