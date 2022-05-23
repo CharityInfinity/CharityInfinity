@@ -8,13 +8,15 @@ page_sections:
   logo: "/uploads/2018/06/21/charity-infinity.png"
   navigation:
   - link: "/"
-    link_text: Donate
+    link_text: Add your NGO
   - link: "/"
     link_text: Homepage
   - link: "/sample"
     link_text: what is Corpus Fund?
   - link: "/setup"
     link_text: How to setup Corpus Fund?
+  - link: "/"
+    link_text: Donate
 - template: content-feature
   block: feature-1
   media_alignment: Right
