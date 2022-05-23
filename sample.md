@@ -26,7 +26,7 @@ page_sections:
     link_text: How to setup a Corpus Fund?
   - link: "/"
     link_text: Donate
-  - link: "/"
+  - link: "/add-ngo"
     link_text: Add your NGO
   cta:
     url: ''
