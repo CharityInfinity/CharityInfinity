@@ -61,7 +61,7 @@ page_sections:
   slug: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   content: '<strong><span class="TextRun SCXW36978653 BCX0">Ways of getting corpus
     fund:<br> </span></strong><span class="TextRun SCXW36978653 BCX0">There are two
     ways of getting corpus funds: Income or surplus- There may be different rules
