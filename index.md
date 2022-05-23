@@ -17,7 +17,7 @@ page_sections:
     link_text: How to setup a Corpus Fund?
   - link: "#responsive"
     link_text: Donate
-  - link: "#blocks"
+  - link: "/add-ngo"
     link_text: Add your NGO
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
