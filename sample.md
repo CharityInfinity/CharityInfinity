@@ -81,7 +81,7 @@ page_sections:
     back to Grant donor requesting to mark their donation as Corpus. It can only be
     considered corpus after receiving the consent, in writing.</span>  '
   media:
-    image: "/uploads/2018/06/21/charity-infinity.png"
+    image: "/uploads/2022/05/23/what-is-ci2.jpg"
     alt_text: ''
   headline: ''
   slug: ''
