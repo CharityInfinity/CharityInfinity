@@ -52,5 +52,18 @@ page_sections:
   media:
     image: "/uploads/2022/05/23/corpus-method.png"
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  content: <strong>Fund Raising Avenues:<br></strong>1. Giveindia - <a href="https://www.giveindia.org/"
+    title="https://www.giveindia.org/">https://www.giveindia.org/</a><br>2. Donate
+    kart - <a href="https://www.donatekart.com/" title="https://www.donatekart.com/">https://www.donatekart.com/</a><br>3.
+    Impact guru for medical funds - <a href="https://www.impactguru.com/" title="https://www.impactguru.com/">https://www.impactguru.com/</a><br>4.
+    ketto - <a href="https://www.ketto.org/" title="https://www.ketto.org/">https://www.ketto.org/</a>
+  headline: ''
+  slug: ''
+  media:
+    image: "/uploads/2022/05/23/fund-raiser.webp"
+    alt_text: ''
 
 ---
