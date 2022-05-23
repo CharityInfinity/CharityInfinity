@@ -54,7 +54,7 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   content: <strong>Fund Raising Avenues:<br></strong>1. Giveindia - <a href="https://www.giveindia.org/"
     title="https://www.giveindia.org/">https://www.giveindia.org/</a><br>2. Donate
     kart - <a href="https://www.donatekart.com/" title="https://www.donatekart.com/">https://www.donatekart.com/</a><br>3.
