@@ -10,7 +10,7 @@ page_sections:
     alt_text: charity-infinity
   navigation:
   - link: "/"
-    link_text: Charity Infinity
+    link_text: Homepage
   - link: "/sample"
     link_text: what we do?
   - link: "#customize"
