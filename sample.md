@@ -34,7 +34,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: what is Corpus Fund?
+  headline: "<strong>what is Corpus Fund?</strong>"
   content: '<strong><span class="TextRun SCXW36978653 BCX0">Corpus Fund:<br>    </span></strong><span
     class="TextRun SCXW36978653 BCX0">From a layman’s point of view, a corpus fund
     should be understood as the capital of the organization; the funds generated and
