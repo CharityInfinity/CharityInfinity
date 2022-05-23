@@ -22,7 +22,7 @@ page_sections:
     link_text: Homepage
   - link: "/sample"
     link_text: What is Corpus Fund?
-  - link: "/"
+  - link: "/setup"
     link_text: How to setup a Corpus Fund?
   - link: "/"
     link_text: Donate
