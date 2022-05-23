@@ -12,7 +12,7 @@ page_sections:
   - link: "/"
     link_text: Homepage
   - link: "/sample"
-    link_text: what we do?
+    link_text: What is Corpus Fund?
   - link: "#customize"
     link_text: About Us
   - link: "#responsive"
