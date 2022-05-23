@@ -33,5 +33,25 @@ page_sections:
   media:
     image: "/uploads/2022/05/23/corpus-fund.jpg"
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  content: <strong><span class="TextRun SCXW54533915 BCX0"><br>How to add Corpus Fund
+    Donation Option to NGO Website?<br><br></span></strong><span class="TextRun SCXW54533915
+    BCX0">First method is adding a checkbox with proper declaration statement, like
+    I hereby declare that this amount is contributed towards the corpus of the trust
+    to be used for its object.<br></span><strong><span class="TextRun SCXW54533915
+    BCX0"><img src="/uploads/2022/05/23/corpus-method.png"><br></span></strong><span
+    class="TextRun SCXW54533915 BCX0">Second method is</span><strong><span class="TextRun
+    SCXW54533915 BCX0"> </span></strong><span class="TextRun SCXW54533915 BCX0">that
+    </span><span class="TextRun SCXW69447982 BCX0">we can use the file upload method
+    also ,where the donor can write a letter by mentioning the donation method(like
+    general or corpus) with their signature, and upload it and also we can use a checkbox
+    to know which type of donation.</span>
+  headline: ''
+  slug: ''
+  media:
+    image: ''
+    alt_text: ''
 
 ---
