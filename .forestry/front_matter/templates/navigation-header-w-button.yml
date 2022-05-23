@@ -23,12 +23,11 @@ fields:
   config:
     labelField: link_text
 - name: call-to-action
-  type: text
+  type: textarea
+  default: ''
   config:
     required: false
+    wysiwyg: false
+    schema:
+      format: markdown
   label: call-to-action
-- name: url
-  type: text
-  config:
-    required: false
-  label: url
