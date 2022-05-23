@@ -19,13 +19,20 @@ page_sections:
     link_text: Donate
   - link: "#blocks"
     link_text: Add your NGO
+  cta:
+    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
+    button_text: Import
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<strong>Charity Infinity</strong><br>Idea Of Charity Infinity"
+  headline: "<strong>Idea Of Charity Infinity</strong>"
   content: <em><span class="TextRun  BCX0 SCXP167130935">A way for anyone to donate
     infinitely to an NGO of their choice till the end of economy, humanity, time and
     earth.</span></em><span class="EOP  BCX0 SCXP167130935">​</span>
+  cta:
+    enabled: true
+    url: https://github.com/forestryio/ubuild-jekyll
+    button_text: 'See on GitHub '
   image:
     image: "/uploads/2022/05/23/hover-ngo.png"
     alt_text: NGO Image
