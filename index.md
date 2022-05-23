@@ -25,9 +25,10 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<strong>Charity Infinity</strong><br>Help NGOs"
-  content: This page helps every NGO with their funding problems. Most of the problem
-    will be resolved using Corpus funding
+  headline: "<strong>Charity Infinity</strong><br>Idea Of Charity Infinity"
+  content: <em><span class="TextRun  BCX0 SCXP167130935">A way for anyone to donate
+    infinitely to an NGO of their choice till the end of economy, humanity, time and
+    earth.</span></em><span class="EOP  BCX0 SCXP167130935">​</span>
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
