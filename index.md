@@ -40,11 +40,22 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>Purpose Of Charity Infinity</strong>  "
+  headline: "<strong>Charity Infinity</strong>"
   slug: ''
-  content: ''
+  content: <strong><span class="TextRun  BCX0 SCXP167130935">Moto of Charity Infinity</span></strong><em><span
+    class="TextRun  BCX0 SCXP167130935"><br>A way for anyone to donate infinitely
+    to an NGO of their choice till the end of economy, humanity, time and earth.</span></em>  <br><br><strong><span
+    class="TextRun SCXP35712849 BCX0">How it works:<br></span></strong><span class="EOP
+    SCXP35712849 BCX0">​</span><span class="TextRun SCXP35712849 BCX0">Every contribution
+    is treated as a principal amount and the profits are donated to NGO of user’s
+    choice once per year.</span><span class="EOP SCXP35712849 BCX0">​<br></span><span
+    class="TextRun SCXP35712849 BCX0">The principal amount is invested in an index
+    fund or in a well-established mutual fund.</span><span class="EOP SCXP35712849
+    BCX0">​<br></span><span class="TextRun SCXP35712849 BCX0">Since profits are calculated
+    after factoring in inflation, the principal amount value will not ideally diminish
+    forever.</span><span class="EOP SCXP35712849 BCX0">​</span>
   media:
-    image: ''
+    image: "/uploads/2022/05/23/hover-ngo.png"
     alt_text: ''
 - template: simple-footer
   block: footer-1
