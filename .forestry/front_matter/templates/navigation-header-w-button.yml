@@ -22,12 +22,3 @@ fields:
     label: Link text
   config:
     labelField: link_text
-- name: call-to-action
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: call-to-action
