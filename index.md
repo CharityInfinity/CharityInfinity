@@ -16,7 +16,7 @@ page_sections:
   - link: "#customize"
     link_text: How to setup a Corpus Fund?
   - link: "#responsive"
-    link_text: Contact us
+    link_text: Donate
   - link: "#blocks"
     link_text: Donate now
   cta:
