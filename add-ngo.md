@@ -7,10 +7,12 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/charity-infinity.png"
   navigation:
-  - link: "/sample"
-    link_text: what is Corpus Fund?
+  - link: "/setup"
+    link_text: How to setup Corpus Fund?
   - link: "/"
     link_text: Homepage
+  - link: "/sample"
+    link_text: what is Corpus Fund?
 - template: content-feature
   block: feature-1
   media_alignment: Right
