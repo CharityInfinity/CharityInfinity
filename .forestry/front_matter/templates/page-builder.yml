@@ -33,6 +33,7 @@ fields:
   - 4-column-footer
   - new-sample-page
 pages:
+- add-ngo.md
 - index.md
 - index.md
 - sample.md
