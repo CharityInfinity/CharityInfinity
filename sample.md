@@ -19,8 +19,6 @@ page_sections:
   logo: "/uploads/2018/06/21/charity-infinity.png"
   navigation:
   - link: "/"
-    link_text: Add your NGO
-  - link: "/"
     link_text: Homepage
   - link: "/sample"
     link_text: What is Corpus Fund?
@@ -28,6 +26,8 @@ page_sections:
     link_text: How to setup a Corpus Fund?
   - link: "/"
     link_text: Donate
+  - link: "/"
+    link_text: Add your NGO
   cta:
     url: ''
     button_text: ''
