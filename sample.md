@@ -85,6 +85,10 @@ page_sections:
     alt_text: ''
   headline: ''
   slug: ''
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ in India
+  random: ''
 title: What is Corpus Fund?
 date: 
 
