@@ -14,7 +14,7 @@ page_sections:
   - link: "/sample"
     link_text: What is Corpus Fund?
   - link: "#customize"
-    link_text: About Us
+    link_text: How to setup a Corpus Fund?
   - link: "#responsive"
     link_text: Contact us
   - link: "#blocks"
