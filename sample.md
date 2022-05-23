@@ -47,7 +47,7 @@ page_sections:
     image: ''
     alt_text: ''
   slug: ''
-title: What is CI?
+title: What is Corpus Fund?
 date: 
 
 ---
