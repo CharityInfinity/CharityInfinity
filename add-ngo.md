@@ -20,9 +20,10 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: ''
+  headline: "<strong>ADD YOUR NGO</strong> by clicking &amp; filling the below form"
   slug: ''
-  content: ''
+  content: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfotFDp9cVxtTMUzoqqdHjDEASDsKWObbvMRMtvg5rieoAwUQ/viewform?pli=1"
+    title="https://docs.google.com/forms/d/e/1FAIpQLSfotFDp9cVxtTMUzoqqdHjDEASDsKWObbvMRMtvg5rieoAwUQ/viewform?pli=1">https://docs.google.com/forms/d/e/1FAIpQLSfotFDp9cVxtTMUzoqqdHjDEASDsKWObbvMRMtvg5rieoAwUQ/viewform?pli=1</a>
   media:
     image: ''
     alt_text: ''
