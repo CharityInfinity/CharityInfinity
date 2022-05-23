@@ -37,6 +37,15 @@ page_sections:
     image: "/uploads/2022/05/23/hover-ngo.png"
     alt_text: NGO Image
   background_image: "/uploads/2018/06/21/charity-infinity.png"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>Purpose Of Charity Infinity</strong>  "
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in India
