@@ -27,5 +27,9 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: simple-footer
+  block: footer-1
+  random: End of Charity infinity
+  content: Made with ❤︎ in India
 
 ---
