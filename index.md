@@ -46,9 +46,5 @@ page_sections:
   block: footer-1
   content: Made with ❤︎ in India
   random: ''
-- template: signup-bar
-  block: cta-bar
-  content: ''
-  email_recipient: ''
 
 ---
