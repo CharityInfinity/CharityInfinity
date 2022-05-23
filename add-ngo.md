@@ -23,7 +23,7 @@ page_sections:
   headline: "<strong>ADD YOUR NGO</strong> by clicking &amp; filling the below form"
   slug: ''
   content: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfotFDp9cVxtTMUzoqqdHjDEASDsKWObbvMRMtvg5rieoAwUQ/viewform?pli=1"
-    title="https://docs.google.com/forms/d/e/1FAIpQLSfotFDp9cVxtTMUzoqqdHjDEASDsKWObbvMRMtvg5rieoAwUQ/viewform?pli=1">https://docs.google.com/forms/d/e/1FAIpQLSfotFDp9cVxtTMUzoqqdHjDEASDsKWObbvMRMtvg5rieoAwUQ/viewform?pli=1</a>
+    title="Add your NGO">https://docs.google.com/forms/d/e/1FAIpQLSfotFDp9cVxtTMUzoqqdHjDEASDsKWObbvMRMtvg5rieoAwUQ/viewform?pli=1</a>
   media:
     image: ''
     alt_text: ''
