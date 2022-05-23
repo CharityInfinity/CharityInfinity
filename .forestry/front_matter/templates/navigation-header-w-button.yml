@@ -22,3 +22,13 @@ fields:
     label: Link text
   config:
     labelField: link_text
+- name: call-to-action
+  type: text
+  config:
+    required: false
+  label: call-to-action
+- name: url
+  type: text
+  config:
+    required: false
+  label: url
