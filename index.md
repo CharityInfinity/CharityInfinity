@@ -5,7 +5,9 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/charity-infinity.png"
+  logo:
+    image: "/uploads/2022/05/11/charity-infinity.png"
+    alt_text: charity-infinity
   navigation:
   - link: "/"
     link_text: Homepage
@@ -17,6 +19,10 @@ page_sections:
     link_text: Donate
   - link: "/add-ngo"
     link_text: Add your NGO
+  cta:
+    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
+    button_text: Import
+  logo-name: Charity Infinity
 - template: content-feature
   block: feature-1
   media_alignment: Right
