@@ -21,9 +21,10 @@ page_sections:
   block: three-column-1
   col_1:
     headline: Smile Foundation
-    content: "<strong>About Us <br></strong>Smile Foundation as an NGO in India has
-      so far directly put more than 200,000 children like Hetal into the path of empowerment
-      through education through its Mission Education programme."
+    content: <strong><img src="/uploads/2022/05/24/smile-foundation.jpg"><br>About
+      Us <br></strong>Smile Foundation as an NGO in India has so far directly put
+      more than 200,000 children like Hetal into the path of empowerment through education
+      through its Mission Education programme.
     slug: ''
   col_2:
     headline: CRY Foundation
