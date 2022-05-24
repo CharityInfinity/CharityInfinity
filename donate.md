@@ -50,8 +50,15 @@ page_sections:
     ngo-img: "/uploads/2022/05/24/cry-foundation.jpg"
     site_name: ''
     url: ''
-    ngo-description: ''
-    ngo-link: ''
+    ngo-description: "<strong>About Us</strong><br>At CRY, being one of the most trusted
+      NGOs in India, we’re committed to doing everything we can to protect the rights
+      of children. We work on 4 key programmatic areas for children: education, safety
+      &amp; protection, health &amp; nutrition and participation. To create a sustainable
+      change for India’s children we address their critical needs by working with
+      parents, teachers, Anganwadi workers, communities, district and state-level
+      governments as well as the children themselves. Thanks to the support of people
+      like you, so far we’ve impacted over 3 million children in India."
+    ngo-link: https://www.cry.org/
   col_3:
     headline: Agaram Foundation
     slug: ''
