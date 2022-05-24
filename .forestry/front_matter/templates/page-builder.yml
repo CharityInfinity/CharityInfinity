@@ -33,6 +33,7 @@ fields:
   - 4-column-footer
   - new-sample-page
   - text-col
+  - call-to-action
 pages:
 - add-ngo.md
 - donate.md
