@@ -26,6 +26,7 @@ page_sections:
       through education through its Mission Education programme."
     slug: ''
     ngo-image: "/uploads/2022/05/24/smile-foundation.jpg"
+    ngo-img: "/uploads/2022/05/24/smile-foundation.jpg"
   col_2:
     headline: CRY Foundation
     slug: ''
@@ -38,6 +39,7 @@ page_sections:
       governments as well as the children themselves. Thanks to the support of people
       like you, so far we’ve impacted over 3 million children in India."
     ngo-image: "/uploads/2022/05/24/cry-foundation.jpg"
+    ngo-img: ''
   col_3:
     headline: Agaram Foundation
     slug: ''
@@ -49,5 +51,6 @@ page_sections:
       a large gender inequality. At Agaram, we want to make a difference in the lives
       of the millions who are not yet touched by education."
     ngo-image: "/uploads/2022/05/24/agaram-foundation.jpg"
+    ngo-img: ''
 
 ---
