@@ -21,11 +21,11 @@ page_sections:
   block: three-column-1
   col_1:
     headline: Smile Foundation
-    content: <strong><img src="/uploads/2022/05/24/smile-foundation.jpg"><br>About
-      Us <br></strong>Smile Foundation as an NGO in India has so far directly put
-      more than 200,000 children like Hetal into the path of empowerment through education
-      through its Mission Education programme.
+    content: "<strong>About Us <br></strong>Smile Foundation as an NGO in India has
+      so far directly put more than 200,000 children like Hetal into the path of empowerment
+      through education through its Mission Education programme."
     slug: ''
+    ngo-image: "/uploads/2022/05/24/smile-foundation.jpg"
   col_2:
     headline: CRY Foundation
     slug: ''
@@ -38,6 +38,7 @@ page_sections:
       Anganwadi workers, communities, district and state-level governments as well
       as the children themselves. Thanks to the support of people like you, so far
       we’ve impacted over 3 million children in India.'
+    ngo-image: ''
   col_3:
     headline: Agaram Foundation
     slug: ''
@@ -49,5 +50,6 @@ page_sections:
       by well- meaning acts like the Right to Education, and a large gender inequality.
       At Agaram, we want to make a difference in the lives of the millions who are
       not yet touched by education.
+    ngo-image: ''
 
 ---
