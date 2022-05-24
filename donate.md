@@ -11,6 +11,5 @@ page_sections:
     link_text: What is Corpus Fund?
   - link: "/"
     link_text: Homepage
-published: false
 
 ---
