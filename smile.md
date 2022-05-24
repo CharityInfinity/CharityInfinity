@@ -19,7 +19,7 @@ page_sections:
     link_text: Add your NGO
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: "<strong>Smile Foundation</strong>"
   content: "<strong>Purpose of Smile<br></strong>The groundwork for a better life
     lies in education. It is the most powerful catalyst for social transformation.
