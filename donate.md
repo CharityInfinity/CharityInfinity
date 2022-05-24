@@ -49,5 +49,9 @@ page_sections:
       of the millions who are not yet touched by education."
     ngo-img: "/uploads/2022/05/24/agaram-foundation.jpg"
     ngo-link: 'click here to visit : https://agaram.in/'
+- template: simple-footer
+  block: footer-1
+  random: ''
+  content: Made with ❤︎ in India
 
 ---
