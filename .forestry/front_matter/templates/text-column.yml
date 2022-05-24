@@ -15,5 +15,10 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- name: ngo-image
+  type: file
+  config:
+    maxSize: 64
+  label: ngo-image
 pages:
 - may18.md
