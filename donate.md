@@ -17,14 +17,21 @@ page_sections:
     link_text: Donate
   - link: "/add-ngo"
     link_text: Add your NGO
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: ''
-  slug: ''
-  content: ''
-  media:
-    image: ''
-    alt_text: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Smile Foundation
+    content: "<strong>About Us <br></strong>Smile Foundation as an NGO in India has
+      so far directly put more than 200,000 children like Hetal into the path of empowerment
+      through education through its Mission Education programme."
+    slug: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 
 ---
