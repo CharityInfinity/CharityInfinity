@@ -58,7 +58,7 @@ page_sections:
       parents, teachers, Anganwadi workers, communities, district and state-level
       governments as well as the children themselves. Thanks to the support of people
       like you, so far we’ve impacted over 3 million children in India."
-    ngo-link: https://www.cry.org/
+    ngo-link: 'click here to visit : https://www.cry.org/'
   col_3:
     headline: Agaram Foundation
     slug: ''
