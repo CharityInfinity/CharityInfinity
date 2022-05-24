@@ -23,8 +23,8 @@ page_sections:
     headline: Smile Foundation
     content: '<strong>About Us</strong><br>Smile Foundation as an NGO in India has
       so far directly put more than 200,000 children like Hetal into the path of empowerment
-      through education through its Mission Education programme.<br><br>Visit their
-      own website : <a href="https://www.smilefoundationindia.org/" title="https://www.smilefoundationindia.org/">https://www.smilefoundationindia.org/</a>'
+      through education through its Mission Education programme.<br><br>To know more
+      : <a href="https://akashmanoharan.github.io/ubuild-jekyll/smile" title="https://akashmanoharan.github.io/ubuild-jekyll/smile">https://akashmanoharan.github.io/ubuild-jekyll/smile</a>'
     ngo-img: "/uploads/2022/05/24/smile-foundation.jpg"
     slug: ''
   col_2:
