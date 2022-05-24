@@ -34,6 +34,7 @@ fields:
   - new-sample-page
 pages:
 - add-ngo.md
+- donate.md
 - index.md
 - index.md
 - sample.md
