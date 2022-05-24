@@ -30,5 +30,16 @@ page_sections:
     image: "/uploads/2022/05/24/smile-foundation.jpg"
     alt_text: ''
   slug: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  content: '<strong>Social Media handles:</strong> <br>Website : <a href="https://www.smilefoundationindia.org/"
+    title="https://www.smilefoundationindia.org/">https://www.smilefoundationindia.org/</a><br>Instagram
+    : <a href="https://instagram.com/smilefoundationindia?igshid=YmMyMTA2M2Y=" title="https://instagram.com/smilefoundationindia?igshid=YmMyMTA2M2Y=">https://instagram.com/smilefoundationindia?igshid=YmMyMTA2M2Y=</a><br>'
+  headline: ''
+  slug: ''
+  media:
+    image: ''
+    alt_text: ''
 
 ---
