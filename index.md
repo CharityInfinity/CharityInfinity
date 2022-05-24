@@ -22,7 +22,7 @@ page_sections:
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
-  logo-name: Charity Infinity
+  logo-name: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
