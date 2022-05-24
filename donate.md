@@ -27,6 +27,8 @@ page_sections:
     slug: ''
     ngo-image: "/uploads/2022/05/24/smile-foundation.jpg"
     ngo-img: "/uploads/2022/05/24/smile-foundation.jpg"
+    site_name: Click here to visit Smile Foundation
+    url: https://www.smilefoundationindia.org/
   col_2:
     headline: CRY Foundation
     slug: ''
@@ -40,6 +42,8 @@ page_sections:
       like you, so far we’ve impacted over 3 million children in India."
     ngo-image: "/uploads/2022/05/24/cry-foundation.jpg"
     ngo-img: "/uploads/2022/05/24/cry-foundation.jpg"
+    site_name: ''
+    url: ''
   col_3:
     headline: Agaram Foundation
     slug: ''
@@ -52,5 +56,7 @@ page_sections:
       of the millions who are not yet touched by education."
     ngo-image: "/uploads/2022/05/24/agaram-foundation.jpg"
     ngo-img: "/uploads/2022/05/24/agaram-foundation.jpg"
+    site_name: ''
+    url: ''
 
 ---
