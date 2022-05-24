@@ -5,7 +5,9 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2022/05/24/charity-infinity-new1.png"
+  logo:
+    image: "/uploads/2022/05/11/charity-infinity.png"
+    alt_text: charity-infinity
   navigation:
   - link: "/"
     link_text: Homepage
@@ -13,7 +15,7 @@ page_sections:
     link_text: What is Corpus Fund?
   - link: "/setup"
     link_text: How to setup a Corpus Fund?
-  - link: "#responsive"
+  - link: "/donate"
     link_text: Donate
   - link: "/add-ngo"
     link_text: Add your NGO
