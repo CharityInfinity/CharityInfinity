@@ -31,7 +31,7 @@ page_sections:
   cta:
     url: ''
     button_text: ''
-  logo-name: Charity Infinity
+  logo-name: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
