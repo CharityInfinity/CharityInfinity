@@ -73,7 +73,13 @@ page_sections:
     ngo-img: "/uploads/2022/05/24/agaram-foundation.jpg"
     site_name: ''
     url: ''
-    ngo-description: ''
-    ngo-link: ''
+    ngo-description: "<strong>About Us</strong><br>India is on the cusp of change.
+      The country is marching into the 21st century, rightly proud of all its advancements
+      in science and technology, its spectacular improvements in infrastructure and
+      IT. And yet, we're weighed down by devastating inequalities, by a huge population
+      that remains untouched by well- meaning acts like the Right to Education, and
+      a large gender inequality. At Agaram, we want to make a difference in the lives
+      of the millions who are not yet touched by education."
+    ngo-link: 'click here to visit : https://agaram.in/'
 
 ---
