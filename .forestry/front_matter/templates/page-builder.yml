@@ -35,6 +35,7 @@ fields:
   - text-col
 pages:
 - add-ngo.md
+- donate.md
 - index.md
 - index.md
 - sample.md
