@@ -39,7 +39,7 @@ page_sections:
   headline: ''
   slug: ''
   media:
-    image: ''
+    image: "/uploads/2022/05/24/social-media.jpg"
     alt_text: ''
 - template: simple-footer
   block: footer-1
