@@ -89,10 +89,6 @@ page_sections:
     alt_text: ''
   headline: ''
   slug: ''
-- template: call-to-action
-  call-to-action:
-    url: https://www.youtube.com/watch?v=iLutkCwxyIs
-    button_text: Youtube Reference
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in India
