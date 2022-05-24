@@ -80,8 +80,9 @@ page_sections:
     Now, the NGO may be unable to utilize the grant within that financial year (practically
     only 1-2 months remaining). One of the alternatives for the NGO would be to go
     back to Grant donor requesting to mark their donation as Corpus. It can only be
-    considered corpus after receiving the consent, in writing.<br><br><br>Youtube
-    explanation about Corpus Fund : </span><a href="https://www.youtube.com/watch?v=iLutkCwxyIs"
+    considered corpus after receiving the consent, in writing.<br><br><br></span><strong><span
+    class="TextRun SCXW36978653 BCX0">Youtube explanation about Corpus Fund</span></strong><span
+    class="TextRun SCXW36978653 BCX0"> : </span><a href="https://www.youtube.com/watch?v=iLutkCwxyIs"
     title="https://www.youtube.com/watch?v=iLutkCwxyIs">https://www.youtube.com/watch?v=iLutkCwxyIs</a>'
   media:
     image: "/uploads/2022/05/23/what-is-ci2.jpg"
