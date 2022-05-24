@@ -31,6 +31,10 @@ page_sections:
     ngo-img: "/uploads/2022/05/24/smile-foundation.jpg"
     site_name: Click here to visit Smile Foundation
     url: https://www.smilefoundationindia.org/
+    ngo-description: "<strong>About Us </strong><br>Smile Foundation as an NGO in
+      India has so far directly put more than 200,000 children like Hetal into the
+      path of empowerment through education through its Mission Education programme."
+    ngo-link: 'Click here to visit : https://www.smilefoundationindia.org/'
   col_2:
     headline: CRY Foundation
     slug: ''
@@ -46,6 +50,8 @@ page_sections:
     ngo-img: "/uploads/2022/05/24/cry-foundation.jpg"
     site_name: ''
     url: ''
+    ngo-description: ''
+    ngo-link: ''
   col_3:
     headline: Agaram Foundation
     slug: ''
@@ -60,5 +66,7 @@ page_sections:
     ngo-img: "/uploads/2022/05/24/agaram-foundation.jpg"
     site_name: ''
     url: ''
+    ngo-description: ''
+    ngo-link: ''
 
 ---
