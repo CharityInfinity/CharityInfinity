@@ -51,6 +51,6 @@ page_sections:
       a large gender inequality. At Agaram, we want to make a difference in the lives
       of the millions who are not yet touched by education."
     ngo-image: "/uploads/2022/05/24/agaram-foundation.jpg"
-    ngo-img: ''
+    ngo-img: "/uploads/2022/05/24/agaram-foundation.jpg"
 
 ---
