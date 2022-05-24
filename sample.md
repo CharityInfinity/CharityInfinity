@@ -16,7 +16,7 @@ layout: blocks
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2022/05/24/charity-infinity-new.png"
+  logo: "/uploads/2022/05/24/charity-infinity-new1.png"
   navigation:
   - link: "/"
     link_text: Homepage
