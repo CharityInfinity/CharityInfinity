@@ -25,7 +25,7 @@ page_sections:
       so far directly put more than 200,000 children like Hetal into the path of empowerment
       through education through its Mission Education programme.<br><br><strong>click
       here to visit the smile foundation:</strong><br><a href="https://www.smilefoundationindia.org/"
-      title="https://www.smilefoundationindia.org/">https://www.smilefoundationindia.org/</a>
+      title="Smile Foundation">https://www.smilefoundationindia.org/</a>
     slug: ''
     ngo-image: "/uploads/2022/05/24/smile-foundation.jpg"
     ngo-img: "/uploads/2022/05/24/smile-foundation.jpg"
