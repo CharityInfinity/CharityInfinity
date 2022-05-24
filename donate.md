@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2022/05/24/charity-infinity-new1.png"
   navigation:
+  - link: "/sample"
+    link_text: What is Corpus Fund?
   - link: "/"
     link_text: Homepage
 - template: content-feature
