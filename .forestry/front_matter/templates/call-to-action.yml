@@ -1,4 +1,19 @@
 ---
 label: call-to-action
 hide_body: true
-fields: []
+fields:
+- name: call-to-action
+  type: field_group
+  config: {}
+  fields:
+  - name: url
+    type: text
+    config:
+      required: false
+    label: URL
+  - name: button_text
+    type: text
+    config:
+      required: false
+    label: Button Text
+  label: call-to-action
