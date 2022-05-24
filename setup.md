@@ -17,6 +17,7 @@ page_sections:
     link_text: Donate
   - link: "/add-ngo"
     link_text: Add your NGO
+  logo-name: Charity Infinity
 - template: content-feature
   block: feature-1
   media_alignment: Left
