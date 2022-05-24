@@ -20,9 +20,17 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: ''
-    caption: ''
-    description: ''
+    image: "/uploads/2022/05/24/cry-foundation.jpg"
+    caption: CRY Foundation
+    description: '<strong>About Us</strong><br>At CRY, being one of the most trusted
+      NGOs in India, we’re committed to doing everything we can to protect the rights
+      of children. We work on 4 key programmatic areas for children: education, safety
+      &amp; protection, health &amp; nutrition and participation. To create a sustainable
+      change for India’s children we address their critical needs by working with
+      parents, teachers, Anganwadi workers, communities, district and state-level
+      governments as well as the children themselves. Thanks to the support of people
+      like you, so far we’ve impacted over 3 million children in India.<br><br>click
+      here to visit : <a href="https://www.cry.org/" title="https://www.cry.org/">https://www.cry.org/</a>'
   image_2:
     image: ''
     caption: ''
