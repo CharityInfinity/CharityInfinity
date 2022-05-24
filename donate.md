@@ -37,8 +37,14 @@ page_sections:
       governments as well as the children themselves. Thanks to the support of people
       like you, so far we’ve impacted over 3 million children in India."
   col_3:
-    headline: ''
+    headline: Agaram Foundation
     slug: ''
-    content: ''
+    content: "<strong>About Us</strong><br>India is on the cusp of change. The country
+      is marching into the 21st century, rightly proud of all its advancements in
+      science and technology, its spectacular improvements in infrastructure and IT.
+      And yet, we're weighed down by devastating inequalities, by a huge population
+      that remains untouched by well- meaning acts like the Right to Education, and
+      a large gender inequality. At Agaram, we want to make a difference in the lives
+      of the millions who are not yet touched by education."
 
 ---
