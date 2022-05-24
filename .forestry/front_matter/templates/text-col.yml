@@ -7,15 +7,6 @@ fields:
   config:
     required: false
   label: Headline
-- name: ngo-description
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: html
-  label: NGO-Description
 - name: ngo-img
   type: file
   config:
@@ -26,3 +17,12 @@ fields:
   config:
     required: false
   label: NGO-Link
+- name: ngo-description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html
+  label: NGO-Description
