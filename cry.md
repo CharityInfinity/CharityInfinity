@@ -36,8 +36,10 @@ page_sections:
   block: feature-1
   media_alignment: Right
   content: '<strong>Social Media Handles:<br></strong>Website : <a href="https://www.cry.org/"
-    title="Cry foundation">https://www.cry.org/</a><br>Instagram  : <a href="https://instagram.com/cry_foundation?igshid=YmMyMTA2M2Y="
-    title="https://instagram.com/cry_foundation?igshid=YmMyMTA2M2Y=">https://instagram.com/cry_foundation?igshid=YmMyMTA2M2Y=</a>'
+    title="Cry foundation">https://www.cry.org/</a><br>Instagram : <a href="https://instagram.com/cry_foundation?igshid=YmMyMTA2M2Y="
+    title="https://instagram.com/cry_foundation?igshid=YmMyMTA2M2Y=">https://instagram.com/cry_foundation?igshid=YmMyMTA2M2Y=</a><br><br><br><strong>Donate
+    through their website : </strong><a href="https://www.cry.org/" title="Donation
+    cry">https://www.cry.org/</a>  '
   media:
     image: "/uploads/2022/05/24/social-media.jpg"
     alt_text: ''
