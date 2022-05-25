@@ -30,5 +30,16 @@ page_sections:
     image: "/uploads/2022/05/24/cry-foundation.jpg"
     alt_text: ''
   slug: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  content: '<strong>Social Media Handles:<br></strong>Website : <a href="https://www.cry.org/"
+    title="Cry foundation">https://www.cry.org/</a><br>Instagram  : <a href="https://instagram.com/cry_foundation?igshid=YmMyMTA2M2Y="
+    title="https://instagram.com/cry_foundation?igshid=YmMyMTA2M2Y=">https://instagram.com/cry_foundation?igshid=YmMyMTA2M2Y=</a>'
+  media:
+    image: "/uploads/2022/05/24/social-media.jpg"
+    alt_text: ''
+  headline: ''
+  slug: ''
 
 ---
