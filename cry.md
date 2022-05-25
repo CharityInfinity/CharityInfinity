@@ -19,7 +19,7 @@ page_sections:
     link_text: Add your NGO
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: "<strong>CRY Foundation</strong>"
   content: "<strong>Purpose of CRY:<br></strong>CRY's objective is to advocate for
     children's rights to survival (food and shelter), protection (health), development
