@@ -39,7 +39,7 @@ page_sections:
       governments as well as the children themselves. Thanks to the support of people
       like you, so far we’ve impacted over 3 million children in India.<br><br><strong>To
       Know more</strong> : <a href="https://akashmanoharan.github.io/ubuild-jekyll/cry"
-      title="Cry-Foundation">https://akashmanoharan.github.io/ubuild-jekyll/cry</a>'
+      title="Cry-Foundation">Click here to know more!</a>'
     ngo-img: "/uploads/2022/05/24/cry-foundation.jpg"
   col_3:
     headline: Agaram Foundation
