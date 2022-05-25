@@ -25,7 +25,9 @@ page_sections:
     children's rights to survival (food and shelter), protection (health), development
     (education), and participation by sensitising the public to these issues, as well
     as by partnering grassroots initiatives that work on child rights by providing
-    financial and non-financial support.<br>"
+    financial and non-financial support.<br><br><strong>For Corpus Funding : </strong>Do
+    normal donation and send a separate mail regarding the donation is for corpus
+    with your name, email, and address details for 80G tax exemption certificate."
   media:
     image: "/uploads/2022/05/24/cry-foundation.jpg"
     alt_text: ''
