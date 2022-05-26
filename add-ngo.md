@@ -23,7 +23,7 @@ page_sections:
   media_alignment: Right
   headline: "<strong>ADD YOUR NGO</strong> by clicking &amp; filling the below form"
   slug: ''
-  content: <a href="https://forms.gle/XQthLFrcKDPXhDFp8" title="Add Your Ngo-form">https://forms.gle/XQthLFrcKDPXhDFp8</a>
+  content: <a href="https://forms.gle/XQthLFrcKDPXhDFp8" title="Add Your Ngo-form">Click me!</a>
   media:
     image: ''
     alt_text: ''
