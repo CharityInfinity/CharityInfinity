@@ -89,7 +89,7 @@ page_sections:
     SCXW36978653 BCX0"> : </span><a href="https://www.youtube.com/watch?v=iLutkCwxyIs"
     title="https://www.youtube.com/watch?v=iLutkCwxyIs">https://www.youtube.com/watch?v=iLutkCwxyIs</a>'
   media:
-    image: "/uploads/2022/05/23/what-is-ci2.jpg"
+    image: "/uploads/2022/05/26/money-2724241_1280.jpg"
     alt_text: ''
   headline: ''
   slug: ''
