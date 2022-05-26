@@ -56,7 +56,7 @@ page_sections:
     Rent for a building. And thus, the corpus helps to keep an organization financially
     secured.</span>
   media:
-    image: "/uploads/2022/05/23/what-is-ci.png"
+    image: "/uploads/2022/05/26/what-is-cf.jpg"
     alt_text: ''
     image2: "/uploads/2018/06/21/charity-infinity.png"
   slug: ''
