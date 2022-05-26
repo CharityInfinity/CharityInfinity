@@ -41,7 +41,7 @@ page_sections:
     after factoring in inflation, the principal amount value will not ideally diminish
     forever.</span><span class="EOP SCXP35712849 BCX0">​</span>
   media:
-    image: "/uploads/2022/05/26/charity-infinity-homepage.png"
+    image: "/uploads/2022/05/26/homepage.png"
     alt_text: ''
 - template: simple-footer
   block: footer-1
