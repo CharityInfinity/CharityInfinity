@@ -5,7 +5,7 @@ date:
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2022/05/24/charity-infinity-new1.png"
+  logo: "/uploads/2022/05/26/charity-infinity-final.png"
   navigation:
   - link: "/"
     link_text: Homepage
@@ -24,7 +24,7 @@ page_sections:
     content: '<strong>About Us</strong><br>Smile Foundation as an NGO in India has
       so far directly put more than 200,000 children like Hetal into the path of empowerment
       through education through its Mission Education programme.<br><br>To know more
-      : <a href="https://akashmanoharan.github.io/ubuild-jekyll/smile" title="https://akashmanoharan.github.io/ubuild-jekyll/smile">Click me to know more!</a>'
+      : <a href="https://akashmanoharan.github.io/ubuild-jekyll/smile" title="https://akashmanoharan.github.io/ubuild-jekyll/smile">https://akashmanoharan.github.io/ubuild-jekyll/smile</a>'
     ngo-img: "/uploads/2022/05/24/smile-foundation.jpg"
     slug: ''
   col_2:
@@ -39,7 +39,7 @@ page_sections:
       governments as well as the children themselves. Thanks to the support of people
       like you, so far we’ve impacted over 3 million children in India.<br><br><strong>To
       Know more</strong> : <a href="https://akashmanoharan.github.io/ubuild-jekyll/cry"
-      title="Cry-Foundation">Click here to know more!</a>'
+      title="Cry-Foundation">https://akashmanoharan.github.io/ubuild-jekyll/cry</a>'
     ngo-img: "/uploads/2022/05/24/cry-foundation.jpg"
   col_3:
     headline: Agaram Foundation
