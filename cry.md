@@ -39,9 +39,9 @@ page_sections:
     title="Cry foundation">https://www.cry.org/</a><br>Instagram : <a href="https://instagram.com/cry_foundation?igshid=YmMyMTA2M2Y="
     title="https://instagram.com/cry_foundation?igshid=YmMyMTA2M2Y=">https://instagram.com/cry_foundation?igshid=YmMyMTA2M2Y=</a><br><br><br><strong>Donate
     through their website : </strong><a href="https://www.cry.org/" title="Donation
-  cry"><button style="background-color:yellow;">Donate</button></a>  '
+    cry">https://www.cry.org/</a>  '
   media:
-    image: "/uploads/2022/05/24/social-media.jpg"
+    image: "/uploads/2022/05/26/social-media-5187243_1280.png"
     alt_text: ''
   headline: ''
   slug: ''
