@@ -32,7 +32,7 @@ page_sections:
     fund from 15% of its income because only 85% is available for application towards
     charitable purposes."
   media:
-    image: "/uploads/2022/05/26/pexels-monstera-6289043.jpg"
+    image: "/uploads/2022/05/26/money-4068357_1280.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
