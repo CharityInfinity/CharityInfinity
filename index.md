@@ -24,7 +24,7 @@ page_sections:
   headline: "<strong>Charity Infinity</strong>"
   slug: ''
   content: <strong><span class="TextRun  BCX0 SCXP167130935"><h2>Moto of Charity Infinity</h2></span></strong><em><span
-    class="TextRun  BCX0 SCXP167130935" style= "background-color: gray;"><br>A way for anyone to donate infinitely
+    class="TextRun  BCX0 SCXP167130935"><br>A way for anyone to donate infinitely
     to an NGO of their choice till the end of economy, humanity, time and earth.</span></em>  <br><br><strong><span
     class="TextRun SCXP35712849 BCX0">How it works:<br></span></strong><span class="EOP
     SCXP35712849 BCX0">​</span><span class="TextRun SCXP35712849 BCX0">Every contribution
