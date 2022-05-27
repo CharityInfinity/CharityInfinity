@@ -87,7 +87,7 @@ page_sections:
     the consent, in writing.<br><br><br></span><strong><span class="TextRun SCXW36978653
     BCX0">Youtube explanation about Corpus Fund</span></strong><span class="TextRun
     SCXW36978653 BCX0"> : </span><a href="https://www.youtube.com/watch?v=iLutkCwxyIs"
-    title="https://www.youtube.com/watch?v=iLutkCwxyIs">https://www.youtube.com/watch?v=iLutkCwxyIs</a>'
+    title="https://www.youtube.com/watch?v=iLutkCwxyIs">Click me to watch a Youtube Video</a>'
   media:
     image: "/uploads/2022/05/26/money-2724241_1280.jpg"
     alt_text: ''
