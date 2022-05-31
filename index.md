@@ -26,7 +26,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>Charity Infinity</strong>"
+  headline: ''
   slug: ''
   content: <span class="EOP SCXP35712849 BCX0">​</span>
   media:
