@@ -35,7 +35,8 @@ page_sections:
   media_alignment: Right
   content: '<strong>Social Media handles:</strong> <br>Website : <a href="https://www.smilefoundationindia.org/"
     title="https://www.smilefoundationindia.org/">https://www.smilefoundationindia.org/</a><br>Instagram
-    : <a href="https://instagram.com/smilefoundationindia?igshid=YmMyMTA2M2Y=" title="https://instagram.com/smilefoundationindia?igshid=YmMyMTA2M2Y=">https://instagram.com/smilefoundationindia?igshid=YmMyMTA2M2Y=</a><br>'
+    : <a href="https://instagram.com/smilefoundationindia?igshid=YmMyMTA2M2Y=" title="https://instagram.com/smilefoundationindia?igshid=YmMyMTA2M2Y=">https://instagram.com/smilefoundationindia?igshid=YmMyMTA2M2Y=</a><br><br><br>Donate
+    through their website : <a href="https://www.smilefoundationindia.org/" title="Donation-smile">https://www.smilefoundationindia.org/</a>'
   headline: ''
   slug: ''
   media:
