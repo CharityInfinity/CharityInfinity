@@ -21,10 +21,10 @@ page_sections:
   block: three-column-1
   col_1:
     headline: Smile Foundation
-    content: 'Smile Foundation as an NGO in India has so far directly put more than
+    content: Smile Foundation as an NGO in India has so far directly put more than
       200,000 children like Hetal into the path of empowerment through education through
-      its Mission Education programme.<br><br>To  : <a href="https://akashmanoharan.github.io/ubuild-jekyll/smile"
-      title="https://akashmanoharan.github.io/ubuild-jekyll/smile">know more</a>'
+      its Mission Education programme.<br><br>To  <a href="https://akashmanoharan.github.io/ubuild-jekyll/smile"
+      title="https://akashmanoharan.github.io/ubuild-jekyll/smile">https://akashmanoharan.github.io/ubuild-jekyll/smile</a>
     ngo-img: "/uploads/2022/05/24/smile-foundation.jpg"
     slug: ''
   col_2:
@@ -38,7 +38,7 @@ page_sections:
       Anganwadi workers, communities, district and state-level governments as well
       as the children themselves. Thanks to the support of people like you, so far
       we’ve impacted over 3 million children in India.<br><br><strong>To </strong>:
-      <a href="https://akashmanoharan.github.io/ubuild-jekyll/cry" title="Cry-Foundation">know more</a>'
+      <a href="https://akashmanoharan.github.io/ubuild-jekyll/cry" title="Cry-Foundation">https://akashmanoharan.github.io/ubuild-jekyll/cry</a>'
     ngo-img: "/uploads/2022/05/24/cry-foundation.jpg"
   col_3:
     headline: Agaram Foundation
@@ -50,7 +50,7 @@ page_sections:
       well- meaning acts like the Right to Education, and a large gender inequality.
       At Agaram, we want to make a difference in the lives of the millions who are
       not yet touched by education.<br><br><strong>To</strong> : <a href="https://agaram.in/"
-      title="https://agaram.in/">know more</a>'
+      title="https://agaram.in/">https://agaram.in/</a>'
     ngo-img: "/uploads/2022/05/24/agaram-foundation.jpg"
 - template: simple-footer
   block: footer-1
