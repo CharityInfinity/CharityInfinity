@@ -23,18 +23,9 @@ page_sections:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
   logo-name: ''
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    ngo-img: "/uploads/2022/05/31/charity-infinity-3.png"
-    headline: ''
-    slug: ''
-    content: ''
-  col_2:
-    headline: ''
-    slug: ''
-    content: ''
-    ngo-img: ''
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2022/05/31/charity-infinity-3.png"
 - template: 1-column-text
   block: one-column-1
   headline: Charity Infinity
