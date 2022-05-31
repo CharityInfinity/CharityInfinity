@@ -12,12 +12,7 @@ fields:
   config:
     maxSize: 64
   label: ngo-img
-- name: ngo-link
-  type: text
-  config:
-    required: false
-  label: NGO-Link
-- name: ngo-description
+- name: description
   type: textarea
   default: ''
   config:
@@ -25,4 +20,4 @@ fields:
     wysiwyg: true
     schema:
       format: html
-  label: NGO-Description
+  label: Description
