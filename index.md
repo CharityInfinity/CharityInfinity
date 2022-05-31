@@ -43,10 +43,6 @@ page_sections:
   media:
     image: "/uploads/2022/05/26/charity-infinity-2.png"
     alt_text: ''
-- template: simple-footer
-  block: footer-1
-  content: Made with ❤︎ in India
-  random: ''
 - template: text-col
   ngo-img: "/uploads/2022/05/31/charity-infinity-3.png"
   description: '<strong><span class="TextRun SCXP35712849 BCX0">How it works:<br></span></strong><span
@@ -59,5 +55,9 @@ page_sections:
     after factoring in inflation, the principal amount value will not ideally diminish
     forever.</span> '
   headline: ''
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ in India
+  random: ''
 
 ---
