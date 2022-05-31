@@ -1,4 +1,14 @@
 ---
-label: Headline
-hide_body: true
-fields: []
+label: Homepage-temp
+hide_body: false
+fields:
+- name: headline
+  type: text
+  config:
+    required: false
+  label: Headline
+- name: homepage-image
+  type: file
+  config:
+    maxSize: 64
+  label: Homepage-image
