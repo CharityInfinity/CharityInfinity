@@ -43,18 +43,6 @@ page_sections:
   media:
     image: "/uploads/2022/05/26/charity-infinity-2.png"
     alt_text: ''
-- template: text-col
-  ngo-img: "/uploads/2022/05/31/charity-infinity-3.png"
-  description: '<strong><span class="TextRun SCXP35712849 BCX0">How it works:<br></span></strong><span
-    class="EOP SCXP35712849 BCX0">​</span><span class="TextRun SCXP35712849 BCX0">Every
-    contribution is treated as a principal amount and the profits are donated to NGO
-    of user’s choice once per year.</span><span class="EOP SCXP35712849 BCX0">​<br></span><span
-    class="TextRun SCXP35712849 BCX0">The principal amount is invested in an index
-    fund or in a well-established mutual fund.</span><span class="EOP SCXP35712849
-    BCX0">​<br></span><span class="TextRun SCXP35712849 BCX0">Since profits are calculated
-    after factoring in inflation, the principal amount value will not ideally diminish
-    forever.</span> '
-  headline: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in India
