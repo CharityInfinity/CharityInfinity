@@ -34,6 +34,9 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: headline
+  homepage-image: "/uploads/2022/05/31/charity-infinity-3.png"
+  headline: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in India
