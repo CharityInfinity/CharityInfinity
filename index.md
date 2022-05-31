@@ -23,16 +23,11 @@ page_sections:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
   logo-name: ''
-- template: 4-column-footer
-  block: footer-2
+- template: full-width-media-element
+  block: media-1
   image: "/uploads/2022/05/31/charity-infinity-3.png"
-  col_2: "<strong>How it works:​</strong><br>Every contribution is treated as a principal
-    amount and the profits are donated to NGO of user’s choice once per year.​<br>The
-    principal amount is invested in an index fund or in a well-established mutual
-    fund.​<br>Since profits are calculated after factoring in inflation, the principal
-    amount value will not ideally diminish forever.  "
-  col_3: ''
-  col_4: ''
+  slug: ''
+  caption: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in India
