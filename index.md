@@ -28,18 +28,7 @@ page_sections:
   media_alignment: Right
   headline: "<strong>Charity Infinity</strong>"
   slug: ''
-  content: <strong><span class="TextRun  BCX0 SCXP167130935">Moto of Charity Infinity</span></strong><em><span
-    class="TextRun  BCX0 SCXP167130935"><br>A way for anyone to donate infinitely
-    to an NGO of their choice till the end of economy, humanity, time and earth.</span></em>
-    .<br><br><strong><span class="TextRun SCXP35712849 BCX0">How it works:<br></span></strong><span
-    class="EOP SCXP35712849 BCX0">​</span><span class="TextRun SCXP35712849 BCX0">Every
-    contribution is treated as a principal amount and the profits are donated to NGO
-    of user’s choice once per year.</span><span class="EOP SCXP35712849 BCX0">​<br></span><span
-    class="TextRun SCXP35712849 BCX0">The principal amount is invested in an index
-    fund or in a well-established mutual fund.</span><span class="EOP SCXP35712849
-    BCX0">​<br></span><span class="TextRun SCXP35712849 BCX0">Since profits are calculated
-    after factoring in inflation, the principal amount value will not ideally diminish
-    forever.</span><span class="EOP SCXP35712849 BCX0">​</span>
+  content: <span class="EOP SCXP35712849 BCX0">​</span>
   media:
     image: "/uploads/2022/05/31/charity-infinity-3.png"
     alt_text: ''
