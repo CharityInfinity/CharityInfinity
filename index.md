@@ -28,9 +28,11 @@ page_sections:
   media_alignment: Right
   headline: ''
   slug: ''
-  content: <span class="EOP SCXP35712849 BCX0">​</span>
+  content: <span class="EOP SCXP35712849 BCX0">​</span>Moto of Charity InfinityA way
+    for anyone to donate infinitely to an NGO of their choice till the end of economy,
+    humanity, time and earth.
   media:
-    image: "/uploads/2022/05/31/charity-infinity-3.png"
+    image: ''
     alt_text: ''
 - template: simple-footer
   block: footer-1
