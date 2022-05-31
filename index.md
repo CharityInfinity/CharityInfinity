@@ -25,14 +25,12 @@ page_sections:
   logo-name: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: ''
   slug: ''
-  content: <span class="EOP SCXP35712849 BCX0">​</span>Moto of Charity InfinityA way
-    for anyone to donate infinitely to an NGO of their choice till the end of economy,
-    humanity, time and earth.
+  content: ''
   media:
-    image: ''
+    image: "/uploads/2022/05/31/charity-infinity-3.png"
     alt_text: ''
 - template: headline
   homepage-image: "/uploads/2022/05/31/charity-infinity-3.png"
