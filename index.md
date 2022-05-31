@@ -35,6 +35,16 @@ page_sections:
     slug: ''
     content: ''
     ngo-img: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: Charity Infinity
+  content: "<strong>How it works:​</strong><br>Every contribution is treated as a
+    principal amount and the profits are donated to NGO of user’s choice once per
+    year.​<br>The principal amount is invested in an index fund or in a well-established
+    mutual fund.​<br>Since profits are calculated after factoring in inflation, the
+    principal amount value will not ideally diminish forever."
+  slug: ''
+  ngo-img: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in India
