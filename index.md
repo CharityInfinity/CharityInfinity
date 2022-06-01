@@ -43,11 +43,12 @@ page_sections:
     alt_text: ''
 - template: detail-content
   block: text-1
-  content: "<h3><strong>How it works:</strong></h3><p>Every contribution is treated
-    as a principal amount and the profits are donated to NGO of user’s choice once
-    per year.​<br>The principal amount is invested in an index fund or in a well-established
-    mutual fund.​<br>Since profits are calculated after factoring in inflation, the
-    principal amount value will not ideally diminish forever.</p>"
+  content: "<h3><strong>How it works:</strong></h3><ul><li><p>Every contribution is
+    treated as a principal amount and the profits are donated to NGO of user’s choice
+    once per year.​</p></li><li><p>The principal amount is invested in an index fund
+    or in a well-established mutual fund.​</p></li><li><p>Since profits are calculated
+    after factoring in inflation, the principal amount value will not ideally diminish
+    forever.</p></li></ul>"
   headline: ''
 - template: simple-footer
   block: footer-1
