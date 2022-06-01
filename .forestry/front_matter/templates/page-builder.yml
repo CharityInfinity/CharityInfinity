@@ -35,6 +35,7 @@ fields:
   - text-col
   - call-to-action
   - headline
+  - text-1
 pages:
 - add-ngo.md
 - cry.md
