@@ -35,11 +35,12 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  content: '<strong>Social Media Handles:<br></strong>Website : <a href="https://www.cry.org/"
-    title="Cry foundation">https://www.cry.org/</a><br>Instagram : <a href="https://instagram.com/cry_foundation?igshid=YmMyMTA2M2Y="
-    title="https://instagram.com/cry_foundation?igshid=YmMyMTA2M2Y=">https://instagram.com/cry_foundation?igshid=YmMyMTA2M2Y=</a><br><br><strong><img
-    src="https://i.imgur.com/QeG9nBK.jpeg"></strong><br><strong>Donate through their
-    website : </strong><a href="https://www.cry.org/" title="Donation cry">https://www.cry.org/</a>'
+  content: '<strong>Social Media Handles:<br></strong><a href="" title="">Website
+    </a>: <a href="https://www.cry.org/" title="Cry foundation">https://www.cry.org/</a><br>Instagram
+    : <a href="https://instagram.com/cry_foundation?igshid=YmMyMTA2M2Y=" title="https://instagram.com/cry_foundation?igshid=YmMyMTA2M2Y=">https://instagram.com/cry_foundation?igshid=YmMyMTA2M2Y=</a><br><br><a
+    href="www.google.com" title=""><strong><img src="https://i.imgur.com/QeG9nBK.jpeg"></strong></a><strong>Donate
+    through their website : </strong><a href="https://www.cry.org/" title="Donation
+    cry">https://www.cry.org/</a>'
   media:
     image: "/uploads/2022/05/26/social-media-5187243_1280.png"
     alt_text: ''
