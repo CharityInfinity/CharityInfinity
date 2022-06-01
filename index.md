@@ -28,19 +28,6 @@ page_sections:
   image: "/uploads/2022/05/31/untitled-design.png"
   slug: ''
   caption: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  content: "<strong>How it works:<br>​</strong>Every contribution is treated as a
-    principal amount and the profits are donated to NGO of user’s choice once per
-    year.​<br>The principal amount is invested in an index fund or in a well-established
-    mutual fund.​<br>Since profits are calculated after factoring in inflation, the
-    principal amount value will not ideally diminish forever."
-  headline: ''
-  slug: ''
-  media:
-    image: ''
-    alt_text: ''
 - template: detail-content
   block: text-1
   content: "<h2><strong>How Charity Infinity works:</strong></h2><ul><li><p>Every
@@ -49,7 +36,7 @@ page_sections:
     in an index fund or in a well-established mutual fund.​</p></li><li><p>Since profits
     are calculated after factoring in inflation, the principal amount value will not
     ideally diminish forever.</p></li></ul>"
-  headline: 'How Charity Infinity works:'
+  headline: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in India
