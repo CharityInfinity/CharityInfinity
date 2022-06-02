@@ -37,7 +37,9 @@ page_sections:
   media_alignment: Right
   content: '<strong>Social Media Handles:<br></strong>Website : <a href="https://www.cry.org/"
     title="Cry foundation">https://www.cry.org/</a><br>Instagram : <a href="https://instagram.com/cry_foundation?igshid=YmMyMTA2M2Y="
-    title="https://instagram.com/cry_foundation?igshid=YmMyMTA2M2Y=">https://instagram.com/cry_foundation?igshid=YmMyMTA2M2Y=</a><br><br><strong>Donate
+    title="https://instagram.com/cry_foundation?igshid=YmMyMTA2M2Y=">https://instagram.com/cry_foundation?igshid=YmMyMTA2M2Y=</a><br><a
+    href="https://instagram.com/cry_foundation?igshid=YmMyMTA2M2Y=" title="cry foundation
+    instagram"><img src="https://i.postimg.cc/jS6ZJHJK/icons8-instagram-48.png"></a><br><strong>Donate
     through their website : </strong><a href="https://www.cry.org/" title="Donation
     cry">https://www.cry.org/</a>'
   media:
