@@ -37,19 +37,16 @@ page_sections:
     are calculated after factoring in inflation, the principal amount value will not
     ideally diminish forever.</p></li></ul>"
   headline: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: "<strong>How Charity Infinity works:<br></strong>Every contribution is
+- template: 1-column-text
+  block: one-column-1
+  headline: ''
+  content: "<strong>How Charity Infinity works:<br></strong>Every contribution is
     treated as a principal amount and the profits are donated to NGO of user’s choice
     once per year.​<br>The principal amount is invested in an index fund or in a well-established
     mutual fund.​<br>Since profits are calculated after factoring in inflation, the
     principal amount value will not ideally diminish forever."
   slug: ''
-  content: ''
-  media:
-    image: ''
-    alt_text: ''
+  ngo-img: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in India
