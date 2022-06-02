@@ -41,7 +41,7 @@ page_sections:
     href="https://m.facebook.com/683875658725657/" title="Cry foundation Facebook"><img
     src="https://i.postimg.cc/4yxdR7Yp/icons8-facebook-48.png"></a><br><br><strong>Donate
     through their website : </strong><a href="https://www.cry.org/" title="Donation
-  cry"><button style="background-color:red; padding:5px;">Donate now</button></a>'
+  cry"><button style="background-color:lightred; padding:5px; font-size:bold;">Donate now</button></a>'
   media:
     image: "/uploads/2022/05/26/social-media-5187243_1280.png"
     alt_text: ''
