@@ -33,10 +33,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  content: '<strong>Social Media handles:</strong> <br>Website : <a href="https://www.smilefoundationindia.org/"
-    title="https://www.smilefoundationindia.org/">https://www.smilefoundationindia.org/</a><br>Instagram
-    : <a href="https://instagram.com/smilefoundationindia?igshid=YmMyMTA2M2Y=" title="https://instagram.com/smilefoundationindia?igshid=YmMyMTA2M2Y=">https://instagram.com/smilefoundationindia?igshid=YmMyMTA2M2Y=</a><br><br><br>Donate
-    through their website : <a href="https://www.smilefoundationindia.org/" title="Donation-smile"><button style="background-color:yellow;">Donate now</button></a>'
+  content: '<strong>Social Media handles:</strong> <br><a href="https://instagram.com/smilefoundationindia?igshid=YmMyMTA2M2Y="
+    title="Smile foundation Instagram"><img src="https://i.postimg.cc/jS6ZJHJK/icons8-instagram-48.png"></a><a
+    href="https://www.smilefoundationindia.org/" title="smile foundation website"><img
+    src="https://i.postimg.cc/NfB9bSN3/icons8-website-50.png"></a><img src="https://i.postimg.cc/4yxdR7Yp/icons8-facebook-48.png"><br><br><br>Donate
+    through their website : <a href="https://www.smilefoundationindia.org/" title="Donation-smile">https://www.smilefoundationindia.org/</a>'
   headline: ''
   slug: ''
   media:
