@@ -49,8 +49,8 @@ page_sections:
       by devastating inequalities, by a huge population that remains untouched by
       well- meaning acts like the Right to Education, and a large gender inequality.
       At Agaram, we want to make a difference in the lives of the millions who are
-      not yet touched by education.<br><br><strong>To</strong>  <a href="https://agaram.in/"
-      title="https://agaram.in/">https://agaram.in/</a>
+      not yet touched by education.<br><br><a href="https://agaram.in/" title="Agaram
+      Foundation">Know More</a>
     ngo-img: "/uploads/2022/05/24/agaram-foundation.jpg"
 - template: simple-footer
   block: footer-1
