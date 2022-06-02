@@ -37,8 +37,8 @@ page_sections:
       children we address their critical needs by working with parents, teachers,
       Anganwadi workers, communities, district and state-level governments as well
       as the children themselves. Thanks to the support of people like you, so far
-      we’ve impacted over 3 million children in India.<br><br><strong>To </strong>
-      <a href="https://akashmanoharan.github.io/ubuild-jekyll/cry" title="Cry-Foundation">https://akashmanoharan.github.io/ubuild-jekyll/cry</a>'
+      we’ve impacted over 3 million children in India.<br><br><a href="https://akashmanoharan.github.io/ubuild-jekyll/cry"
+      title="Cry Foundation">Know More</a>'
     ngo-img: "/uploads/2022/05/24/cry-foundation.jpg"
   col_3:
     headline: Agaram Foundation
