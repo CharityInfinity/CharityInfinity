@@ -2,6 +2,13 @@
 label: single-column
 hide_body: true
 fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: Block
+  hidden: true
+  default: single-column
 - name: headline
   type: textarea
   default: ''
