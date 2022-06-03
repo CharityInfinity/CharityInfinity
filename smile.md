@@ -36,9 +36,9 @@ page_sections:
   content: '<strong>Social Media handles:</strong> <br><a href="https://instagram.com/smilefoundationindia?igshid=YmMyMTA2M2Y="
     title="Smile foundation Instagram"><img src="https://i.postimg.cc/jS6ZJHJK/icons8-instagram-48.png"></a><a
     href="https://www.smilefoundationindia.org/" title="smile foundation website"><img
-    src="https://i.postimg.cc/NfB9bSN3/icons8-website-50.png"></a><img src="https://i.postimg.cc/4yxdR7Yp/icons8-facebook-48.png"><br><br><br>Donate
-    through their website : <a href="https://www.smilefoundationindia.org/  " title="Donate
-    now"><img src="https://i.postimg.cc/zB8wt8YX/Donate-Now-1.png"></a>  '
+    src="https://i.postimg.cc/NfB9bSN3/icons8-website-50.png"></a><img src="https://i.postimg.cc/4yxdR7Yp/icons8-facebook-48.png"><br><br><strong>Donate
+    through their website : </strong><a href="https://www.smilefoundationindia.org/"
+    title="smile-foundation-donation"><strong><img src="https://i.postimg.cc/NGNw8kWZ/Donate-Now-3.png"></strong></a>'
   headline: ''
   slug: ''
   media:
