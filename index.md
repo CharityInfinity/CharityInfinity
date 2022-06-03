@@ -29,7 +29,7 @@ page_sections:
     is treated as a principal amount and the profits are donated to NGO of user’s
     choice once per year.​</span><span>The principal amount is invested in an index fund
     or in a well-established mutual fund.​</span><span>Since profits are calculated after
-    factoring in inflation, the principal amount value will not ideally diminish forever.</span><h4>"
+    factoring in inflation, the principal amount value will not ideally diminish forever.</span></h4>"
   headline: ''
 - template: simple-footer
   block: footer-1
