@@ -30,7 +30,7 @@ page_sections:
   caption: ''
 - template: detail-content
   block: text-1
-  content: "<h2><strong>How Charity Infinity works:</strong><p>Every contribution
+  content: "<h2><strong>How Charity Infinity works:</strong><p style="font-size:25px;">Every contribution
     is treated as a principal amount and the profits are donated to NGO of user’s
     choice once per year.​</p><p>The principal amount is invested in an index fund
     or in a well-established mutual fund.​</p><p>Since profits are calculated after
