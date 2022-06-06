@@ -40,6 +40,7 @@ fields:
   - headline-content
 pages:
 - add-ngo.md
+- agaram.md
 - cry.md
 - donate.md
 - index.md
