@@ -27,6 +27,9 @@ page_sections:
       title="smile foundation">Know More</a>
     ngo-img: "/uploads/2022/05/24/smile-foundation.jpg"
     slug: ''
+    call-to-action:
+      url: https://www.google.com
+      button_text: Visit
   col_2:
     headline: CRY Foundation
     slug: ''
@@ -40,6 +43,9 @@ page_sections:
       we’ve impacted over 3 million children in India.<br><br><a href="https://akashmanoharan.github.io/ubuild-jekyll/cry"
       title="Cry Foundation">Know More</a>'
     ngo-img: "/uploads/2022/05/24/cry-foundation.jpg"
+    call-to-action:
+      url: ''
+      button_text: ''
   col_3:
     headline: Agaram Foundation
     slug: ''
@@ -52,6 +58,9 @@ page_sections:
       not yet touched by education.<br><br><a href="https://agaram.in/" title="Agaram
       Foundation">Know More</a>
     ngo-img: "/uploads/2022/05/24/agaram-foundation.jpg"
+    call-to-action:
+      url: ''
+      button_text: ''
 - template: simple-footer
   block: footer-1
   random: ''
