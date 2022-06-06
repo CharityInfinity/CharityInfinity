@@ -40,8 +40,8 @@ page_sections:
     href="https://www.cry.org/" title="cry foundation website"><img src="https://i.postimg.cc/NfB9bSN3/icons8-website-50.png"></a><a
     href="https://m.facebook.com/683875658725657/" title="Cry foundation Facebook"><img
     src="https://i.postimg.cc/4yxdR7Yp/icons8-facebook-48.png"></a><br><br><strong>Donate
-    through their website : </strong><a href="https://www.google.com" title=""><strong>Donate
-    Now</strong></a>'
+    through their website : <br></strong><a href="https://www.cry.org/" title="Donate
+    through CRY Foundation"><strong><img src="https://i.postimg.cc/vZ0wMBQ3/Donate-Now-3.png"></strong></a>'
   media:
     image: "/uploads/2022/05/26/social-media-5187243_1280.png"
     alt_text: ''
