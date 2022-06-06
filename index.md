@@ -40,10 +40,10 @@ page_sections:
   block: feature-1
   media_alignment: Right
   content: Every contribution is treated as a principal amount and the profits are
-    donated to NGO of user’s choice once per year.​The principal amount is invested
-    in an index fund or in a well-established mutual funds.​Since profits are calculated
-    after factoring in inflation, the principal amount value will not ideally diminish
-    forever.
+    donated to NGO of user’s choice once per year.​<br><br>The principal amount is
+    invested in an index fund or in a well-established mutual funds.​<br><br>Since
+    profits are calculated after factoring in inflation, the principal amount value
+    will not ideally diminish forever.
   headline: "<strong>How Charity Infinity works:</strong>"
   slug: ''
   media:
