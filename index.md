@@ -28,6 +28,11 @@ page_sections:
   image: "/uploads/2022/05/31/untitled-design.png"
   slug: ''
   caption: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2022/06/06/how-it-works-1.png"
+  slug: ''
+  caption: ''
 - template: detail-content
   block: text-1
   content: "<h2><strong>How Charity Infinity works:</strong></h2><p>Every contribution
@@ -37,11 +42,6 @@ page_sections:
     factoring in inflation, the principal amount value will not ideally diminish forever.
     </p>"
   headline: ''
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2022/06/06/how-it-works-1.png"
-  slug: ''
-  caption: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in India
