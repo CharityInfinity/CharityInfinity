@@ -1,7 +1,6 @@
 ---
 layout: blocks
 title: Charity Infinity
-image: "/uploads/2018/06/21/charity-infinity.png"
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
