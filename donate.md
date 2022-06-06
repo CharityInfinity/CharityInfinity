@@ -30,6 +30,9 @@ page_sections:
     call-to-action:
       url: https://www.google.com
       button_text: Visit
+    cta:
+      url: https://www.google.com
+      button_text: Visit
   col_2:
     headline: CRY Foundation
     slug: ''
@@ -46,6 +49,9 @@ page_sections:
     call-to-action:
       url: ''
       button_text: ''
+    cta:
+      url: ''
+      button_text: ''
   col_3:
     headline: Agaram Foundation
     slug: ''
@@ -59,6 +65,9 @@ page_sections:
       Foundation">Know More</a>
     ngo-img: ''
     call-to-action:
+      url: ''
+      button_text: ''
+    cta:
       url: ''
       button_text: ''
 - template: simple-footer
