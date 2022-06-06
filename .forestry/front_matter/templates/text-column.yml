@@ -15,7 +15,7 @@ fields:
     wysiwyg: true
     schema:
       format: html
-- name: call-to-action
+- name: cta
   type: field_group
   config: {}
   fields:
@@ -29,4 +29,4 @@ fields:
     config:
       required: false
     label: button text
-  label: call-to-action
+  label: Call-to-action
