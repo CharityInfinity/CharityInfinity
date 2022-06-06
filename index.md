@@ -30,7 +30,7 @@ page_sections:
   caption: ''
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2022/06/06/how-it-works-2.png"
+  image: "/uploads/2022/06/06/how-it-works-3.png"
   slug: ''
   caption: ''
 - template: detail-content
