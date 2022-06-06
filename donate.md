@@ -25,7 +25,7 @@ page_sections:
       200,000 children like Hetal into the path of empowerment through education through
       its Mission Education programme.<br><br><a href="https://akashmanoharan.github.io/ubuild-jekyll/smile"
       title="smile foundation">Know More</a>
-    ngo-img: "/uploads/2022/05/24/smile-foundation.jpg"
+    ngo-img: ''
     slug: ''
     call-to-action:
       url: https://www.google.com
@@ -42,7 +42,7 @@ page_sections:
       as the children themselves. Thanks to the support of people like you, so far
       we’ve impacted over 3 million children in India.<br><br><a href="https://akashmanoharan.github.io/ubuild-jekyll/cry"
       title="Cry Foundation">Know More</a>'
-    ngo-img: "/uploads/2022/05/24/cry-foundation.jpg"
+    ngo-img: ''
     call-to-action:
       url: ''
       button_text: ''
