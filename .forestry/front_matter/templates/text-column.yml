@@ -20,5 +20,3 @@ fields:
   config:
     maxSize: 64
   label: ngo-img
-pages:
-- may18.md
