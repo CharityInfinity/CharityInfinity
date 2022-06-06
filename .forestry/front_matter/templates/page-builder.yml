@@ -37,6 +37,7 @@ fields:
   - headline
   - text-1
   - single-column
+  - headline-content
 pages:
 - add-ngo.md
 - cry.md
