@@ -57,7 +57,7 @@ page_sections:
       At Agaram, we want to make a difference in the lives of the millions who are
       not yet touched by education.<br><br><a href="https://agaram.in/" title="Agaram
       Foundation">Know More</a>
-    ngo-img: "/uploads/2022/05/24/agaram-foundation.jpg"
+    ngo-img: ''
     call-to-action:
       url: ''
       button_text: ''
