@@ -29,17 +29,12 @@ page_sections:
     choice once per year.​</p><p>The principal amount is invested in an index fund
     or in a well-established mutual funds.​</p><p>Since profits are calculated after
     factoring in inflation, the principal amount value will not ideally diminish forever.</p>"
-- template: call-to-action
-  call-to-action:
-  - url: https://www.google.com
-    button_text: visit google
-  - url: https://www.facebook.com
-    button_text: Visit Facebook
-  block: ''
-  text-1: "<p><strong>How Charity Infinity works:</strong></p><p>Every contribution
+- template: customizable-text
+  headline: "<p><strong>How Charity Infinity works:</strong></p><p>Every contribution
     is treated as a principal amount and the profits are donated to NGO of user’s
     choice once per year.​</p><p>The principal amount is invested in an index fund
     or in a well-established mutual funds.​</p><p>Since profits are calculated after
     factoring in inflation, the principal amount value will not ideally diminish forever.</p>"
+  blocks: ''
 
 ---
