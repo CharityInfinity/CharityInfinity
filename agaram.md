@@ -22,5 +22,12 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: text-only-hero-banner
+  block: hero-1
+  heading: "<p><strong>How Charity Infinity works:</strong></p><p>Every contribution
+    is treated as a principal amount and the profits are donated to NGO of user’s
+    choice once per year.​</p><p>The principal amount is invested in an index fund
+    or in a well-established mutual funds.​</p><p>Since profits are calculated after
+    factoring in inflation, the principal amount value will not ideally diminish forever.</p>"
 
 ---
