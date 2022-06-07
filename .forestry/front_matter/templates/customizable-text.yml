@@ -17,3 +17,5 @@ fields:
     schema:
       format: html-blocks
   label: Headline
+pages:
+- ".forestry/snippets/tip.snippet.md"
