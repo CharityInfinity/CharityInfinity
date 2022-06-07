@@ -9,5 +9,18 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Homepage
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: '&lt;div id="import-ubuild-theme-button" data-proofer-ignore&gt; <br>{{%
+    create_site_button <br>repo="<a href="https://github.com/forestryio/ubuild-jekyll.git"
+    title="https://github.com/forestryio/ubuild-jekyll.git" target="_blank">https://github.com/forestryio/ubuild-jekyll.git</a>"
+    <br>engineName="jekyll" <br>engineVersion="3.6.0" <br>heading="Make it Your Own"
+    <br>linkText="Import Jekyll uBuild Now" %}} <br>&lt;/div&gt;'
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 
 ---
