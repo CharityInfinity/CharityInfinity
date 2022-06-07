@@ -33,7 +33,7 @@ page_sections:
   call-to-action:
   - url: https://www.google.com
     button_text: visit google
-  - url: ''
-    button_text: ''
+  - url: https://www.facebook.com
+    button_text: Visit Facebook
 
 ---
