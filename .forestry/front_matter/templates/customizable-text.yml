@@ -19,4 +19,4 @@ fields:
       format: html-blocks
   label: Headline
 pages:
-- _includes/customizable-text.html
+- _includes/block-customizable-text.html
