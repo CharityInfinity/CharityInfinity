@@ -42,6 +42,7 @@ fields:
   - custom-field
   - text-docs
   - text-only-hero-banner
+  - call-to-action
 pages:
 - add-ngo.md
 - agaram.md
