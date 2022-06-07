@@ -33,6 +33,13 @@ page_sections:
   image: "/uploads/2022/06/07/how-ci-works.png"
   slug: ''
   caption: ''
+- template: customizable-text
+  headline: "<h2><strong>How Charity Infinity works:</strong></h2><p>Every contribution
+    is treated as a principal amount and the profits are donated to NGO of user’s
+    choice once per year.​</p><p>The principal amount is invested in an index fund
+    or in a well-established mutual funds.​</p><p>Since profits are calculated after
+    factoring in inflation, the principal amount value will not ideally diminish forever.</p>"
+  blocks: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in India
