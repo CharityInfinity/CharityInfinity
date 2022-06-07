@@ -1,4 +1,18 @@
 ---
 label: text-docs
 hide_body: false
-fields: []
+fields:
+- name: headline
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Headline
+- name: description
+  type: include
+  config: {}
+  template: text-column
+  label: Description
