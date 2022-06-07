@@ -35,7 +35,7 @@ page_sections:
   caption: ''
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in India
+  content: Made with ❤︎ in India.
   random: ''
 
 ---
