@@ -29,5 +29,11 @@ page_sections:
     choice once per year.​</p><p>The principal amount is invested in an index fund
     or in a well-established mutual funds.​</p><p>Since profits are calculated after
     factoring in inflation, the principal amount value will not ideally diminish forever.</p>"
+- template: call-to-action
+  call-to-action:
+  - url: https://www.google.com
+    button_text: visit google
+  - url: ''
+    button_text: ''
 
 ---
