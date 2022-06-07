@@ -6,8 +6,9 @@ fields:
   type: text
   config:
     required: false
-  label: blocks
+  label: block
   hidden: true
+  default: customizable-text
 - name: headline
   type: textarea
   default: ''
