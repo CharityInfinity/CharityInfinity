@@ -24,11 +24,11 @@ page_sections:
     alt_text: ''
 - template: customizable-text
   block: customizable-text
-  headline: "<h2><strong>How Charity Infinity works:</strong></h2><h3><em>Every contribution
-    is treated as a principal amount and the profits are donated to NGO of user’s
-    choice once per year.​</em></h3><h3><em>The principal amount is invested in an
-    index fund or in a well-established mutual funds.​</em></h3><h3><em>Since profits
-    are calculated after factoring in inflation, the principal amount value will not
-    ideally diminish forever.</em></h3>"
+  headline: "<h2><strong>How Charity Infinity works:</strong></h2>"
+  content: "<h4>Every contribution is treated as a principal amount and the profits
+    are donated to NGO of user’s choice once per year.​</h4><h4>The principal amount
+    is invested in an index fund or in a well-established mutual funds.​</h4><h4>Since
+    profits are calculated after factoring in inflation, the principal amount value
+    will not ideally diminish forever.</h4>"
 
 ---
