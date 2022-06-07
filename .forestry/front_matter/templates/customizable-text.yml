@@ -2,7 +2,7 @@
 label: Customizable-text
 hide_body: false
 fields:
-- name: blocks
+- name: block
   type: text
   config:
     required: false
