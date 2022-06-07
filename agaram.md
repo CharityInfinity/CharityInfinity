@@ -31,11 +31,11 @@ page_sections:
     factoring in inflation, the principal amount value will not ideally diminish forever.</p>"
 - template: customizable-text
   block: customizable-text
-  headline: "<h2><strong>How Charity Infinity works:</strong></h2><br><h3><em>Every contribution
+  headline: "<h2><strong>How Charity Infinity works:</strong></h2><h2><em>Every contribution
     is treated as a principal amount and the profits are donated to NGO of user’s
-    choice once per year.​</em></h3><br><br><h3><em>The principal amount is invested
-    in an index fund or in a well-established mutual funds.​</em></h3><br><br><h3><em>Since
+    choice once per year.​</em></h2><h2></h2><h2><em>The principal amount is invested
+    in an index fund or in a well-established mutual funds.​</em></h2><h2></h2><h2><em>Since
     profits are calculated after factoring in inflation, the principal amount value
-    will not ideally diminish forever.</em></h3>"
+    will not ideally diminish forever.</em></h2>"
 
 ---
