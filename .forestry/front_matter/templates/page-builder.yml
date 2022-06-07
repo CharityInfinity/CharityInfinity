@@ -39,6 +39,7 @@ fields:
   - single-column
   - headline-content
   - customizable-text
+  - custom-field
 pages:
 - add-ngo.md
 - agaram.md
