@@ -63,7 +63,7 @@ page_sections:
       in our nation. All across the country are homes which house thousands of women
       and children, in desperate need of care, rehabilitation and support. Our vision
       is to work with these homes and transform them into model homes which empower
-      their inmates to lead a fruitful and fulfilling life.<br><br><a href="https://agaram.in/"
+      their inmates to lead a fruitful and fulfilling life.<br><br><a href="https://akashmanoharan.github.io/ubuild-jekyll/u-i-foundation"
       title="Agaram Foundation">Know More</a>'
     ngo-img: ''
     call-to-action:
