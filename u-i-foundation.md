@@ -42,13 +42,15 @@ page_sections:
   media_alignment: Right
   headline: ''
   slug: ''
-  content: <strong>Social Media Handles:</strong>  <br><a href="https://www.uandi.org.in/"
+  content: <strong>Social Media Handles:</strong> <br><a href="https://www.uandi.org.in/"
     title="U&amp;I-website"><img src="https://i.postimg.cc/Bv0J2RLd/icons8-website-50.png"></a><a
     href="https://www.facebook.com/uandi.org.in?fref=ts" title="U&amp;I - Facebook"><img
     src="https://i.postimg.cc/vB5qfSnS/icons8-facebook-48.png"></a><a href="https://www.instagram.com/uandi.org.in/"
-    title="U&amp;I-Instagram"><img src="https://i.postimg.cc/brW7pV7y/icons8-instagram-48.png"></a><br><br>
+    title="U&amp;I-Instagram"><img src="https://i.postimg.cc/brW7pV7y/icons8-instagram-48.png"></a><br><br><strong>Donate
+    through their website :</strong>  <br><a href="https://danamojo.org/dm/ui" title="U&amp;I-donation"><img
+    src="https://i.postimg.cc/0yjqDmf1/Donate-Now-3.png"></a>
   media:
-    image: ''
+    image: "/uploads/2022/05/26/social-media-5187243_1280.png"
     alt_text: ''
 
 ---
