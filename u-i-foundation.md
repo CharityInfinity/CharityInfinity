@@ -37,5 +37,18 @@ page_sections:
   media:
     image: "/uploads/2022/06/08/u-i-foundation.jpg"
     alt_text: U&I Foundation
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  slug: ''
+  content: <strong>Social Media Handles:</strong>  <br><a href="https://www.uandi.org.in/"
+    title="U&amp;I-website"><img src="https://i.postimg.cc/Bv0J2RLd/icons8-website-50.png"></a><a
+    href="https://www.facebook.com/uandi.org.in?fref=ts" title="U&amp;I - Facebook"><img
+    src="https://i.postimg.cc/vB5qfSnS/icons8-facebook-48.png"></a><a href="https://www.instagram.com/uandi.org.in/"
+    title="U&amp;I-Instagram"><img src="https://i.postimg.cc/brW7pV7y/icons8-instagram-48.png"></a><br><br>
+  media:
+    image: ''
+    alt_text: ''
 
 ---
