@@ -55,16 +55,13 @@ page_sections:
   col_3:
     headline: U&I Foundation
     slug: ''
-    content: '<strong>U&amp;I has 2 key programs</strong> - U&amp;I Teach, U&amp;I
-      Care<br><strong>U&amp;I Teach</strong> : 9 out of 10 students who study in government
-      schools drop out before the 10th grade. U&amp;I Teach is an after school program
-      that aims to educate the lesser privileged youth and help them stay in school.<br><strong>U&amp;I
-      Care</strong> : The vision for U&amp;I Care is to transform institutional care
-      in our nation. All across the country are homes which house thousands of women
-      and children, in desperate need of care, rehabilitation and support. Our vision
-      is to work with these homes and transform them into model homes which empower
-      their inmates to lead a fruitful and fulfilling life.<br><br><a href="https://akashmanoharan.github.io/ubuild-jekyll/u-i-foundation"
-      title="Agaram Foundation">Know More</a>'
+    content: U&amp;I Teach is an after school program that aims to educate the lesser
+      privileged youth and help them stay in school. All across the country are homes
+      which house thousands of women and children, in desperate need of care, rehabilitation
+      and support. Our vision is to work with these homes and transform them into
+      model homes which empower their inmates to lead a fruitful and fulfilling life.<br><br><a
+      href="https://akashmanoharan.github.io/ubuild-jekyll/u-i-foundation" title="Agaram
+      Foundation">Know More</a>
     ngo-img: ''
     call-to-action:
       url: ''
