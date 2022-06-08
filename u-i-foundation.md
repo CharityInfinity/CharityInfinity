@@ -30,9 +30,9 @@ page_sections:
     in desperate need of care, rehabilitation and support. Our vision is to work with
     these homes and transform them into model homes which empower their inmates to
     lead a fruitful and fulfilling life.<br><br><strong>For Corpus Funding : </strong>We
-    can donate to U&amp;I's corpus by sending a wire transfer to the bank details
+    can donate to U&amp;I's corpus by sending a wire transfer to their bank details
     and following it up with an email to accounts@uandi.org.in and ajit@uandi.org.in
-    stating that the amount donated is to go towards U&amp;I's corpus.  "
+    stating that the amount donated is to go towards U&amp;I's corpus."
   slug: ''
   media:
     image: "/uploads/2022/06/08/u-i-foundation.jpg"
