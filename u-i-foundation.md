@@ -19,7 +19,7 @@ page_sections:
     link_text: Add your NGO
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: "<strong>U&amp;I Foundation</strong>"
   content: "<strong>Purpose of U&amp;I</strong> : U&amp;I has 2 key programs - <strong>U&amp;I
     Teach</strong> : 9 out of 10 students who study in government schools drop out
