@@ -11,8 +11,8 @@ page_sections:
     link_text: ''
   - link: ''
     link_text: ''
-  - link: ''
-    link_text: ''
+  - link: "/setup"
+    link_text: How to setup a Corpus Fund?
   - link: "/sample"
     link_text: What is Corpus Fund?
   - link: "/"
