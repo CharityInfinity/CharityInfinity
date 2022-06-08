@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link: ''
     link_text: ''
-  - link: ''
-    link_text: ''
+  - link: "/donate"
+    link_text: Donate
   - link: "/setup"
     link_text: How to setup a Corpus Fund?
   - link: "/sample"
