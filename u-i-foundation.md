@@ -9,6 +9,5 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Homepage
-published: false
 
 ---
