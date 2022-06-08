@@ -52,5 +52,9 @@ page_sections:
   media:
     image: "/uploads/2022/05/26/social-media-5187243_1280.png"
     alt_text: ''
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ in India
+  random: ''
 
 ---
