@@ -19,4 +19,4 @@ fields:
       format: html
   label: Headline
 pages:
-- _includes/single-column.html
+- _includes/block-single-column.html
