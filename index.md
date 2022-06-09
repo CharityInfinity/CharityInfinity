@@ -28,11 +28,6 @@ page_sections:
   image: "/uploads/2022/05/31/untitled-design.png"
   slug: ''
   caption: ''
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2022/06/07/how-ci-works.png"
-  slug: ''
-  caption: ''
 - template: customizable-text
   block: customizable-text
   headline: "<strong>How Charity Infinity works:<br></strong><em>Every contribution
