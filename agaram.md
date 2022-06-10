@@ -13,6 +13,12 @@ page_sections:
   block: customizable-text
   headline: ''
   content: "<h1><strong>Charity Infinity</strong></h1>"
+- template: customizable-text
+  block: customizable-text
+  headline: "<strong><em>Helps other NGOs</em></strong><em><br>A way for anyone to
+    donate infinitely to an NGO of their choice till the end of economy, humanity,
+    time and earth.</em>"
+  content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
