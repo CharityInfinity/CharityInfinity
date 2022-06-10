@@ -43,6 +43,7 @@ fields:
   - text-docs
   - text-only-hero-banner
   - call-to-action
+  - text-image
 pages:
 - add-ngo.md
 - agaram.md
