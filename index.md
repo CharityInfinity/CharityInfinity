@@ -25,7 +25,7 @@ page_sections:
   logo-name: ''
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2022/05/31/untitled-design.png"
+  image: "/uploads/2022/06/10/homepage-italic.png"
   slug: ''
   caption: ''
 - template: customizable-text
