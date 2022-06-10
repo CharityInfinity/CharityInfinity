@@ -17,5 +17,9 @@ page_sections:
     choice till the end of economy, humanity, time and earth.</em></h4>"
   image1: "/uploads/2022/06/10/pexels-rocketmann-team-9486905.jpg"
   content: ''
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ in India.
+  random: ''
 
 ---
