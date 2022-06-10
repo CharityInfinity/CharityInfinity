@@ -12,7 +12,7 @@ page_sections:
 - template: customizable-text
   block: customizable-text
   headline: ''
-  content: "<h1><strong style="display:flex; justify-content:center; align-items:center;">Charity Infinity</strong></h1>"
+  content: "<h1><strong style="display:flex; justify-content:center;">Charity Infinity</strong></h1>"
 - template: customizable-text
   block: customizable-text
   headline: "<strong><em>Helps other NGOs</em></strong><em><br>A way for anyone to
