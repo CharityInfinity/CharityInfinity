@@ -38,3 +38,5 @@ fields:
   config:
     maxSize: 64
   label: image1
+pages:
+- _includes/block-text-image.html
