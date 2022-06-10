@@ -40,11 +40,5 @@ page_sections:
   block: footer-1
   content: Made with ❤︎ in India.
   random: ''
-- template: customizable-text
-  block: customizable-text
-  headline: "<strong>Charity Infinity<br></strong>Helps other NGOs<br>A way for anyone
-    to donate infinitely to an NGO of their choice till the end of economy, humanity,
-    time and earth."
-  content: ''
 
 ---
