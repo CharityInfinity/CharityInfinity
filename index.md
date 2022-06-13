@@ -23,19 +23,6 @@ page_sections:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
   logo-name: ''
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2022/06/10/homepage-italic.png"
-  slug: ''
-  caption: ''
-- template: customizable-text
-  block: customizable-text
-  headline: "<strong>How Charity Infinity works:<br></strong><em>Every contribution
-    is treated as a principal amount and the profits are donated to NGO of user’s
-    choice once per year.​<br><br>The principal amount is invested in an index fund
-    or in a well-established mutual funds.​<br><br>Since profits are calculated after
-    factoring in inflation, the principal amount value will not ideally diminish forever.</em>"
-  content: ''
 - template: text-image
   block: text-image
   image: ''
@@ -44,6 +31,14 @@ page_sections:
     choice till the end of economy, humanity, time and earth.</em></h4>"
   content: ''
   image1: ''
+- template: customizable-text
+  block: customizable-text
+  headline: "<strong>How Charity Infinity works:<br></strong><em>Every contribution
+    is treated as a principal amount and the profits are donated to NGO of user’s
+    choice once per year.​<br><br>The principal amount is invested in an index fund
+    or in a well-established mutual funds.​<br><br>Since profits are calculated after
+    factoring in inflation, the principal amount value will not ideally diminish forever.</em>"
+  content: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in India.
