@@ -52,7 +52,7 @@ page_sections:
 - template: signup-bar
   block: cta-bar
   email_recipient: akash018108@gmail.com
-  content: n
+  content: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in India.
