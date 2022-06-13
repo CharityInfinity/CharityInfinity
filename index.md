@@ -43,7 +43,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: <strong>Join Beta Version:</strong> <a href="https://forms.gle/nY5ay1yzQVADanuj7"
-    title="Join beta version"><button style="background-color:lightpink; padding:10px; border:0px; border-radius:10px;"><h4>Click me & Join</h4></button></a>
+    title="Join beta version"><button style="background-color:lightsalmon; padding:10px; border:0px; border-radius:10px;"><h4>Click me & Join</h4></button></a>
   content: ''
   slug: ''
   media:
