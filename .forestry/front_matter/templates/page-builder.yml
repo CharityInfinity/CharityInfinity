@@ -45,6 +45,7 @@ fields:
   - call-to-action
   - text-image
 pages:
+- "./cry.md"
 - add-ngo.md
 - agaram.md
 - cry.md

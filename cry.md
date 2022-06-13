@@ -51,5 +51,6 @@ page_sections:
   block: footer-1
   random: ''
   content: Made with ❤︎ in India
+published: false
 
 ---
