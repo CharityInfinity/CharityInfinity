@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2022/05/26/charity-infinity-final.png"
   navigation:
+  - link: "/donate"
+    link_text: Donate
   - link: "/setup"
     link_text: How to setup Corpus Fund?
   - link: "/sample"
