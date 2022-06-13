@@ -10,7 +10,7 @@ page_sections:
   - link: "/"
     link_text: Homepage
   - link: "/sample"
-    link_text: what is Corpus Fund?
+    link_text: What is Corpus Fund?
   - link: "/setup"
     link_text: How to setup Corpus Fund?
   - link: "/donate"
@@ -23,7 +23,7 @@ page_sections:
   media_alignment: Right
   headline: "<strong>ADD YOUR NGO</strong> by clicking &amp; filling the below form"
   slug: ''
-  content: <a href="https://forms.gle/XQthLFrcKDPXhDFp8" title="Add Your Ngo-form"><button style="background-color:lightpink; padding:10px; border:0px; border-radius:10px;"><h4>Add Your NGO</h4></button></a>
+  content: <a href="https://forms.gle/XQthLFrcKDPXhDFp8" title="Add Your Ngo-form">https://forms.gle/XQthLFrcKDPXhDFp8</a>
   media:
     image: ''
     alt_text: ''
