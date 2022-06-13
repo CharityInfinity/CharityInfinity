@@ -42,8 +42,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: '<strong>Join Beta Version: </strong><a href="https://forms.gle/nY5ay1yzQVADanuj7"
-    title="Join beta version"><strong>Join Beta Version</strong></a>'
+  headline: <strong>Join Beta Version:</strong> <a href="https://forms.gle/nY5ay1yzQVADanuj7"
+    title="Join beta version">Join Beta Version</a>
   content: ''
   slug: ''
   media:
