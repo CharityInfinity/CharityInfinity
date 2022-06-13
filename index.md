@@ -17,9 +17,6 @@ page_sections:
     link_text: Donate
   - link: "/add-ngo"
     link_text: Add your NGO
-  cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
   logo-name: ''
 - template: text-image
   block: text-image
