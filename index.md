@@ -34,16 +34,6 @@ page_sections:
     or in a well-established mutual funds.​<br><br>Since profits are calculated after
     factoring in inflation, the principal amount value will not ideally diminish forever.</em>"
   content: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: <a href="https://forms.gle/nY5ay1yzQVADanuj7" title="Join the beta list"><strong>Join
-    beta list</strong></a>
-  content: ''
-  slug: ''
-  media:
-    image: ''
-    alt_text: ''
 - template: simple-footer
   block: footer-1
   content: <a href="https://forms.gle/xBP5aKpBFUBY36NQ8" title="Join beta list"><strong>Join
