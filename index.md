@@ -47,7 +47,7 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: <a href="https://forms.gle/xBP5aKpBFUBY36NQ8" title="Join beta list"><strong>Join
-    beta list</strong></a><br>Made with ❤︎ in India.
+    beta list</strong></a><strong><br><br></strong><br>Made with ❤︎ in India.
   random: ''
 
 ---
