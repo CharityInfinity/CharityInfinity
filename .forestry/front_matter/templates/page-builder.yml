@@ -45,16 +45,12 @@ fields:
   - call-to-action
   - text-image
 pages:
-- "./cry.md"
-- "./smile-copy.md"
 - add-ngo.md
 - agaram.md
 - donate.md
 - index.md
-- index.md
 - ngos/cry.md
 - ngos/smile.md
 - ngos/u-i-foundation.md
-- sample.md
 - sample.md
 - setup.md
