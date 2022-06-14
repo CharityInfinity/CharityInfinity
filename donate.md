@@ -43,7 +43,7 @@ page_sections:
       children we address their critical needs by working with parents, teachers,
       Anganwadi workers, communities, district and state-level governments as well
       as the children themselves. Thanks to the support of people like you, so far
-      we’ve impacted over 3 million children in India.<br><br><a href="https://akashmanoharan.github.io/ubuild-jekyll/ngos/cry"
+      we’ve impacted over 3 million children in India.<br><br><a href="https://charityinfinity.github.io/CharityInfinity/ngos/cry"
       title="Cry Foundation">Know More</a>'
     ngo-img: ''
     call-to-action:
