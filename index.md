@@ -37,8 +37,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>                                                      </strong><a
-    href="https://forms.gle/nY5ay1yzQVADanuj7" title="Join the beta list"><strong>Join
+  headline: <a href="https://forms.gle/nY5ay1yzQVADanuj7" title="Join the beta list"><strong>Join
     beta list</strong></a>
   content: ''
   slug: ''
@@ -47,7 +46,8 @@ page_sections:
     alt_text: ''
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in India.
+  content: <a href="https://forms.gle/xBP5aKpBFUBY36NQ8" title="Join beta list"><strong>Join
+    beta list</strong></a><br>Made with ❤︎ in India.
   random: ''
 
 ---
