@@ -87,7 +87,7 @@ page_sections:
     the consent, in writing.<br><br><br></span><strong><span class="TextRun SCXW36978653
     BCX0">Youtube explanation about Corpus Fund</span></strong><span class="TextRun
     SCXW36978653 BCX0"> : </span><a href="https://www.youtube.com/watch?v=iLutkCwxyIs"
-                                    title="https://www.youtube.com/watch?v=iLutkCwxyIs"><button style="background-color:lightblue; padding:5px;">Watch now</button></a>'
+                                    title="https://www.youtube.com/watch?v=iLutkCwxyIs"><button style="background-color:lightblue; padding:5px;" onMouseOver="this.style.cursor='pointer'">Watch now</button></a>'
   media:
     image: "/uploads/2022/05/26/money-2724241_1280.jpg"
     alt_text: ''
@@ -101,6 +101,3 @@ title: What is Corpus Fund?
 date: 
 
 ---
-# Helping the NGOs!!
-
-## Charity Infinity helps the NGOs to get and know more about Corpus funding.
