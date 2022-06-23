@@ -9,9 +9,9 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Homepage
-  - link: "/what-is-corpus-fund?"
+  - link: "/what-is-corpus-fund"
     link_text: What is Corpus Fund?
-  - link: "/how-to-setup-corpus-fund?"
+  - link: "/how-to-setup-corpus-fund"
     link_text: How to setup a Corpus Fund?
   - link: "/donate"
     link_text: Donate
