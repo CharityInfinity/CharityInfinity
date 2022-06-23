@@ -45,7 +45,6 @@ fields:
   - call-to-action
   - text-image
 pages:
-- add-ngo.md
 - agaram.md
 - donate.md
 - index.md
