@@ -64,27 +64,26 @@ page_sections:
   block: feature-1
   media_alignment: Left
   content: '<strong><span class="TextRun SCXW36978653 BCX0">Ways of getting corpus
-    fund:<br> </span></strong><span class="TextRun SCXW36978653 BCX0">There are two
-    ways of getting corpus funds:<br></span><strong><span class="TextRun SCXW36978653
-    BCX0"> Income or surplus-</span></strong><span class="TextRun SCXW36978653 BCX0">
-    There may be different rules in the different country towards this. For example,
-    in India; as per the Income Tax act, only 15% of the organization income or surplus
-    can be transferred to the corpus fund. Rest 85% has to be used to fund program
-    activities.<br> <br></span><strong><span class="TextRun SCXW36978653 BCX0">Donations</span></strong><span
-    class="TextRun SCXW36978653 BCX0">- Corpus can be received as a donation. But,
-    any donation that is received this way, must be clearly stated by the donor that
-    she/ he is contributing towards the corpus. Without any written consent from the
-    donor, the additional funds cannot be transferred to the corpus. In case of donation,
-    if there are no such written briefs, NGO can go back to get such written consent.<br>
+    fund:<br> </span></strong><span class="TextRun SCXW36978653 BCX0">There are only 
+    two ways for getting the corpus funds:<br></span><strong><span class="TextRun SCXW36978653
+    BCX0"> Donations- </span></strong><span class="TextRun SCXW36978653 BCX0">
+    Corpus Fund can be received through donation. But the donor 
+    needs to clearly mention that the grant should be corpus in written statement. 
+    Without written statement, the amount should not be considered as a corpus fund. 
+    In such cases, NGO can go back to the donor and get the written statement that it is 
+    for corpus.<br> <br></span><strong><span class="TextRun SCXW36978653 BCX0">Income or Surplus </span></strong><span
+    class="TextRun SCXW36978653 BCX0">- There are different rules in different countries for this option. In India, 
+    Only 15% of the organization income can be transferred to the corpus fund as per 
+    the Income Tax Act. The Remaining 85% income should be used for NGO activities.<br>
     <br></span><strong><span class="TextRun SCXW36978653 BCX0">For example</span></strong><span
-    class="TextRun SCXW36978653 BCX0">, In India, the financial year closing is on
-    31st March. Sometimes, NGOs receive a huge grant in February, as March is the
-    last month of the financial year and the donors need to give away the sanctioned/pledged
-    money for the respective development cause. Now, the NGO may be unable to utilize
-    the grant within that financial year (practically only 1-2 months remaining).
-    One of the alternatives for the NGO would be to go back to Grant donor requesting
-    to mark their donation as Corpus. It can only be considered corpus after receiving
-    the consent, in writing.<br><br><br></span><strong><span class="TextRun SCXW36978653
+    class="TextRun SCXW36978653 BCX0">, We can consider a real time situation, If the NGO gets the huge grant 
+    during the month of Februray. The donor has donated the amount for specific 
+    development cause. But the financial year ends on 31st March in India. Now, the 
+    NGO can't spend the 85% of the grant within March 31st and practically it is not 
+    possible also. So, the best way is that the NGO needs to go back to the donor and 
+    request to mark the grant amount as corpus. If the donor accepts and mention that 
+    in written manner, the grant will be considered as a corpus fund.
+    <br><br><br></span><strong><span class="TextRun SCXW36978653
     BCX0">Youtube explanation about Corpus Fund</span></strong><span class="TextRun
     SCXW36978653 BCX0"> : </span><a href="https://www.youtube.com/watch?v=iLutkCwxyIs"
                                     title="https://www.youtube.com/watch?v=iLutkCwxyIs"><button style="background-color:lightblue; padding:5px;">Watch now</button></a>'
