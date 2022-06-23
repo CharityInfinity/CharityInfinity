@@ -9,13 +9,13 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Homepage
-  - link: "/sample"
+  - link: "/what-is-corpus-fund"
     link_text: What is Corpus Fund?
-  - link: "/setup"
+  - link: "/how-to-setup-corpus-fund"
     link_text: How to setup Corpus Fund?
   - link: "/donate"
     link_text: Donate
-  - link: "/add-ngo"
+  - link: "/add-your-ngo"
     link_text: Add your NGO
 - template: content-feature
   block: feature-1
