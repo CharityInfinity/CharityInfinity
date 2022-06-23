@@ -42,19 +42,21 @@ page_sections:
     support for the organization. It will be more helpful for the NGO to 
     sustain during the difficult times. It is also known as "Emergency 
     Fund".<br><br></span><strong><span class="TextRun SCXW36978653 BCX0">Need
-    of corpus funding:<br> </span></strong><span class="TextRun SCXW36978653 BCX0">An
-    important aspect of the Corpus fund is that, with general body meeting approval,
-    it can also be used to keep continuity in an organization activity, say, when
-    the grant is still not received from the donor organization. In such cases, there
-    are two options for an NGO- either make some temporary arrangement or delay the
-    activity. If an NGO has just limited fund, as it depends only on the foreign grant,
-    any delay in the grant will lead to a pause or delay in the project activity.
-    Corpus, in such cases, works as a temporary grant arrangement to keep the activity
-    continued. NGOs receive limited funds to run the program activities as the approved
-    budget. There are certain regular expenses, which do not get funded through this.
-    In such cases, these expenses can be covered from the corpus funds. For example-
-    Rent for a building. And thus, the corpus helps to keep an organization financially
-    secured.</span>
+    of corpus funding:<br> </span></strong><span class="TextRun SCXW36978653 BCX0">The 
+    main idea of going with corpus fund is that, it can be used for 
+    continuing the organization activity, If the grant is not received 
+    from the donor. There are two options available for the NGO, if the 
+    grant is not received from the donor, one is making some 
+    temporary arrangements or delay the activity. But the NGO is 
+    completely depends on the grant from the donor, since there is 
+    limited fund availble in the NGO, then we need to pause or delay 
+    the activity. But we have corpus funds , we can use it for making the 
+    temporary arrangements to continue the activity. And also grant 
+    received from donor is an exact budget for running the program 
+    and some of the regular expenses won't be covered in that budget, 
+    for example: paying rent for the building and so on. So we can use 
+    the corpus funds for that. Corpus Funds helps the organization to 
+    be financially secured.</span>
   media:
     image: "/uploads/2022/05/26/what-is-cf.jpg"
     alt_text: ''
