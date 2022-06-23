@@ -42,8 +42,8 @@ page_sections:
     support for the organization. It will be more helpful for the NGO to 
     sustain during the difficult times. It is also known as "Emergency 
     Fund".<br><br></span><strong><span class="TextRun SCXW36978653 BCX0">Need
-    of corpus funding:<br> </span></strong><span class="TextRun SCXW36978653 BCX0">The
-    main idea of going with corpus fund is that, it can be used for 
+    of corpus funding:<br> </span></strong><span class="TextRun SCXW36978653 BCX0">An 
+    important aspect of going with corpus fund is that, it can be used for 
     continuing the organization activity, If the grant is not received 
     from the donor. There are two options available for the NGO, if the 
     grant is not received from the donor, one is making some 
