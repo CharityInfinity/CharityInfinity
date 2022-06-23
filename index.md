@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Homepage
-  - link: "/sample"
+  - link: "/what-is-corpus-fund"
     link_text: What is Corpus Fund?
   - link: "/setup"
     link_text: How to setup a Corpus Fund?
