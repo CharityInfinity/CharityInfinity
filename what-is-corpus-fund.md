@@ -37,11 +37,11 @@ page_sections:
   media_alignment: Right
   headline: "<strong>what is Corpus Fund?</strong>"
   content: <strong><span class="TextRun SCXW36978653 BCX0">Corpus Fund:<br> </span></strong><span
-    class="TextRun SCXW36978653 BCX0">From a layman’s point of view, a corpus fund
-    should be understood as the capital of the organization; the funds generated and
-    kept for the existence and sustenance(support) of the organization. It can simply
-    be also called as “Emergency Fund”, as it is also used to help sustain the difficult
-    times of an NGO.<br><br></span><strong><span class="TextRun SCXW36978653 BCX0">Need
+    class="TextRun SCXW36978653 BCX0">Corpus Fund can be considered as a capital of the organization 
+    where the funds can be generated and kept for the existence and 
+    support for the organization. It will be more helpful for the NGO to 
+    sustain during the difficult times. It is also known as "Emergency 
+    Fund".<br><br></span><strong><span class="TextRun SCXW36978653 BCX0">Need
     of corpus funding:<br> </span></strong><span class="TextRun SCXW36978653 BCX0">An
     important aspect of the Corpus fund is that, with general body meeting approval,
     it can also be used to keep continuity in an organization activity, say, when
