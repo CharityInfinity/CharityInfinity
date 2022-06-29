@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: setup
+title: how-to-setup-corpus-fund
 date: 
 page_sections:
 - template: navigation-header-w-button
