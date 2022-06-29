@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: what-is-corpus-fun
+title: what-is-corpus-fund
 date: 
 page_sections:
 - template: navigation-header-w-button
