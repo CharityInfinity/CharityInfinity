@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: add-ngo
+title: add-your-ngo
 date: 
 page_sections:
 - template: navigation-header-w-button
