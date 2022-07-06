@@ -84,9 +84,14 @@ page_sections:
       url: ''
       button_text: ''
   col_2:
-    headline: ''
+    headline: Kidpower India
     slug: ''
-    content: ''
+    content: Kidpower specially focuses on children in difficult situations by providing
+      them with education support, safety training, and other intervention which will
+      help the children to continue their education and have a better future. In order
+      to do that, we have tied up different schools in Visakhapatnam area. We are
+      have adapted slums and are working with a focus to prevent child labour and
+      enhance livelihoods of the poor.<br><br><a href="" title="">know more</a>
     cta:
       url: ''
       button_text: ''
