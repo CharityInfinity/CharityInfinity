@@ -20,7 +20,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>How to setup Corpus Fund?</strong>
+  headline: "<strong>How to setup Corpus Fund?</strong>"
   content: "<strong>How these corpus funds are created?<br><br></strong>Corpus funds
     are created out of donations which are specifically directed towards corpus funds.
     In fact, for being eligible as corpus donation, any voluntary contribution needs
@@ -49,19 +49,6 @@ page_sections:
   media:
     image: "/uploads/2022/05/23/corpus-method.png"
     alt_text: ''
-  headline: ''
-  slug: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  media:
-    image: "/uploads/2022/05/26/pexels-karolina-grabowska-4968631.jpg"
-    alt_text: ''
-  content: <strong>Fund Raising Avenues:<br></strong>1. GiveIndia - <a href="https://www.giveindia.org/"
-    title="https://www.giveindia.org/">https://www.giveindia.org/</a><br>2. Donate
-    kart - <a href="https://www.donatekart.com/" title="https://www.donatekart.com/">https://www.donatekart.com/</a><br>3.
-    Impact guru for medical funds - <a href="https://www.impactguru.com/" title="https://www.impactguru.com/">https://www.impactguru.com/</a><br>4.
-    ketto - <a href="https://www.ketto.org/" title="https://www.ketto.org/">https://www.ketto.org/</a>
   headline: ''
   slug: ''
 - template: simple-footer
