@@ -38,5 +38,9 @@ page_sections:
     image: "/uploads/2022/07/06/kidpower-india.png"
     alt_text: ''
   slug: ''
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ in India
+  random: ''
 
 ---
