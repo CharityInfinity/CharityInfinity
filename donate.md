@@ -69,6 +69,34 @@ page_sections:
     cta:
       url: ''
       button_text: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Bhumi NGO
+    content: Bhumi was founded on August 15, 2006 by a group of friends, who believed
+      that every underprivileged child deserves quality education. Since then, Bhumi
+      has transformed this conviction into a volunteering opportunity for India’s
+      youth, launching a snowball effect of nurturing talent on the path to an educated,
+      poverty-free India.<br><br><a href="https://charityinfinity.github.io/CharityInfinity/ngos/bhumi"
+      title="Bhumi NGO">know more</a>
+    slug: ''
+    cta:
+      url: ''
+      button_text: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+    cta:
+      url: ''
+      button_text: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
+    cta:
+      url: ''
+      button_text: ''
 - template: simple-footer
   block: footer-1
   random: ''
