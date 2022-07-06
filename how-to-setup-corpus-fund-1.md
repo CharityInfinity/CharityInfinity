@@ -39,9 +39,8 @@ page_sections:
     Donation Option to NGO Website?<br><br></span>1.</strong> Raising a Fundraiser
     specifically for corpus fund through one of the fund raising avenues and explicitly
     stating in the description that the funds donated will be for the NGO''s Corpus
-    Fund. An example: Bhumi - Corpus Fund (hyperlink to <a href="https://fundraisers.giveindia.org/projects/bhumi-corpus-fund"
-    title="https://fundraisers.giveindia.org/projects/bhumi-corpus-fund">https://fundraisers.giveindia.org/projects/bhumi-corpus-fund</a>
-    ).'
+    Fund. An example: Bhumi - Corpus Fund (<a href="https://fundraisers.giveindia.org/projects/bhumi-corpus-fund"
+    title="Bhumi corpus fund">GiveIndia</a>).'
   media:
     image: "/uploads/2022/07/06/giveindia-corpus-option.png"
     alt_text: ''
@@ -53,7 +52,8 @@ page_sections:
   content: <strong>2.</strong> Danamojo is a company which provide online payment
     both general and corpus fund option for the NGOs, kidpower India is one of the
     users of danamojo and they're providing corpus fund option through their website
-    itself (<a href="http://www.kidpower.org.in/donate.php" title="http://www.kidpower.org.in/donate.php">http://www.kidpower.org.in/donate.php</a>).
+    itself (<a href="http://www.kidpower.org.in/donate.php" title="kidpower india">Kidpower
+    India</a>).
   media:
     image: "/uploads/2022/07/06/danamojo-corpus-option.png"
     alt_text: ''
@@ -65,7 +65,8 @@ page_sections:
   content: <strong>3. </strong>Creating a personal info form with comments input field
     where we can mention that this amount is for corpus fund and make a donation,
     Indian association for the Blind is using this way for getting the corpus fund
-    (<a href="https://www.theiab.org/empower-visually-challenged.php" title="https://www.theiab.org/empower-visually-challenged.php">https://www.theiab.org/empower-visually-challenged.php</a>).
+    (<a href="https://www.theiab.org/empower-visually-challenged.php" title="IAB corpus">IAB
+    Corpus</a>).
   media:
     image: "/uploads/2022/07/06/iab-corpus-option.png"
     alt_text: ''
