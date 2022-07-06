@@ -91,7 +91,8 @@ page_sections:
       help the children to continue their education and have a better future. In order
       to do that, we have tied up different schools in Visakhapatnam area. We are
       have adapted slums and are working with a focus to prevent child labour and
-      enhance livelihoods of the poor.<br><br><a href="" title="">know more</a>
+      enhance livelihoods of the poor.<br><br><a href="http://www.charityinfinity.com/ngos/kidpower"
+      title="kidpower India">know more</a>
     cta:
       url: ''
       button_text: ''
