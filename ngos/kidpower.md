@@ -35,7 +35,7 @@ page_sections:
     directly use that one.<br><br><a href="http://www.kidpower.org.in/donate.php"
     title="kidpower-donation"><img src="https://i.postimg.cc/02h0T2bX/Donate-Now-3.png"></a>'
   media:
-    image: "/uploads/2022/07/06/kidpower-india.png"
+    image: "/uploads/2022/07/06/kidpower-india-1.jpg"
     alt_text: ''
   slug: ''
 - template: simple-footer
