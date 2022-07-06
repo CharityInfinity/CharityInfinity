@@ -35,16 +35,16 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  content: '<strong><span class="TextRun SCXW54533915 BCX0">How to add Corpus Fund
-    Donation Option to NGO Website?<br><br></span>1.</strong> Raising a Fundraiser
-    specifically for corpus fund through one of the fund raising avenues and explicitly
-    stating in the description that the funds donated will be for the NGO''s Corpus
-    Fund. An example: Bhumi - Corpus Fund (<a href="https://fundraisers.giveindia.org/projects/bhumi-corpus-fund"
+  content: '<strong><span class="TextRun SCXW54533915 BCX0"><br></span>1.</strong>
+    Raising a Fundraiser specifically for corpus fund through one of the fund raising
+    avenues and explicitly stating in the description that the funds donated will
+    be for the NGO''s Corpus Fund. An example: Bhumi - Corpus Fund (<a href="https://fundraisers.giveindia.org/projects/bhumi-corpus-fund"
     title="Bhumi corpus fund">GiveIndia</a>).'
   media:
     image: "/uploads/2022/07/06/giveindia-corpus-option.png"
     alt_text: ''
-  headline: ''
+  headline: '<strong><span class="TextRun SCXW54533915 BCX0">How to add Corpus Fund
+    Donation Option to NGO Website?</span></strong>  '
   slug: ''
 - template: content-feature
   block: feature-1
