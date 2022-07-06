@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2022/05/26/charity-infinity-final.png"
   navigation:
-  - link_text: Homepage
+  - link_text: Home
     link: "/"
   - link: "/what-is-corpus-fund"
     link_text: What is Corpus Fund?
