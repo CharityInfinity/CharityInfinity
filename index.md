@@ -36,10 +36,7 @@ page_sections:
   content: ''
 - template: simple-footer
   block: footer-1
-  content: <a href="https://forms.gle/xBP5aKpBFUBY36NQ8" title="Join beta list"><button
-    type="button" style="background-color:lightsalmon; padding:10px; border:0px; border-radius:10px;"
-    onMouseOver="this.style.cursor='pointer'"><h2>Join beta list</h2></button></a><strong><br><br></strong><br>Made
-    with ❤︎ in India.
+  content: Made with ❤︎ in India.
   random: ''
 
 ---
