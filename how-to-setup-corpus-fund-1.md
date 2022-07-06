@@ -20,7 +20,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong><span class="light">How to setup Corpus Fund?</span></strong>
+  headline: <strong>How to setup Corpus Fund?</strong>
   content: "<strong>How these corpus funds are created?<br><br></strong>Corpus funds
     are created out of donations which are specifically directed towards corpus funds.
     In fact, for being eligible as corpus donation, any voluntary contribution needs
