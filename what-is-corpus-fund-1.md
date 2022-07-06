@@ -20,7 +20,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>what is Corpus Fund?</strong>"
+  headline: "<strong>What is Corpus Fund?</strong>"
   content: "<strong>Corpus Fund:<br></strong>Corpus fund is considered as the capital
     of the organization and is different from the usual donations that the NGOs get
     for their expenses. The usual donations that an NGO gets, would be treated as
