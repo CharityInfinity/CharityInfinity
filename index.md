@@ -23,7 +23,8 @@ page_sections:
   image: ''
   headline: "<h1><strong>Charity Infinity</strong></h1><h4><strong><em>Helps other
     NGOs</em></strong><em><br>A way for anyone to donate infinitely to an NGO of their
-    choice till the end of economy, humanity, time and earth.</em></h4>"
+    choice till the end of economy, humanity, time and earth.</em></h4><br>
+    <a href="https://forms.gle/xBP5aKpBFUBY36NQ8" title="Join beta list"><button type="button" style="background-color:lightsalmon; padding:10px; border:0px; border-        radius:10px;" onMouseOver="this.style.cursor='pointer'"><h2>Join beta list</h2></button></a>"
   content: ''
   image1: ''
 - template: customizable-text
@@ -36,7 +37,7 @@ page_sections:
   content: ''
 - template: simple-footer
   block: footer-1
-  content: <a href="https://forms.gle/xBP5aKpBFUBY36NQ8" title="Join beta list"><button type="button" style="background-color:lightsalmon; padding:10px; border:0px; border-radius:10px;" onMouseOver="this.style.cursor='pointer'"><h2>Join beta list</h2></button></a><strong><br><br></strong><br>Made with ❤︎ in India.
+  content: Made with ❤︎ in India.
   random: ''
 
 ---
