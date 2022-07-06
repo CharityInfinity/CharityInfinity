@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: what-is-corpus-fund
+title: what-is-corpus-fun
 date: 
 page_sections:
 - template: navigation-header-w-button
@@ -61,7 +61,8 @@ page_sections:
     and request to mark the grant amount as corpus. If the donor accepts and mention
     that in written manner, the grant will be considered as a corpus fund.<br><br><strong>YouTube
     explanation about Corpus Fund : </strong><a href="https://www.youtube.com/watch?v=iLutkCwxyIs"
-    title="Youtube video"><button style="background-color:lightblue; padding:5px;">Watch now</button></a>'
+    title="Youtube video"><button style="background-color:lightblue; padding:5px;">Watch
+    now</button></a>'
   media:
     image: "/uploads/2022/05/26/money-2724241_1280.jpg"
     alt_text: ''
