@@ -22,28 +22,17 @@ page_sections:
   media_alignment: Left
   headline: "<strong>Smile Foundation</strong>  "
   slug: ''
-  content: "<strong>Purpose of Smile<br></strong>The groundwork for a better life
-    lies in education. It is the most powerful catalyst for social transformation.
-    However, a child cannot be educated in isolation. Only an empowered family, especially
-    the mother, would be willing to educate their child. Thus, rather than focusing
-    on only one stage of a person's life, we believe in the lifecycle approach.  "
+  content: <a href="" title=""><strong><img src="https://i.postimg.cc/26LJfXCn/icons8-website-50.png"></strong></a><a
+    href="https://instagram.com/smilefoundationindia?igshid=YmMyMTA2M2Y=" title="smile
+    instagram"><strong><img src="https://i.postimg.cc/qqz70rzj/icons8-instagram-48.png"></strong></a><strong><br><br>Purpose
+    of Smile<br></strong>The groundwork for a better life lies in education. It is
+    the most powerful catalyst for social transformation. However, a child cannot
+    be educated in isolation. Only an empowered family, especially the mother, would
+    be willing to educate their child. Thus, rather than focusing on only one stage
+    of a person's life, we believe in the lifecycle approach.<br><br><a href="https://donate.smilefoundationindia.org/"
+    title="donate smile"><img src="https://i.postimg.cc/02h0T2bX/Donate-Now-3.png"></a>
   media:
     image: "/uploads/2022/05/24/smile-foundation.jpg"
-    alt_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: ''
-  slug: ''
-  content: <strong>Social Media handles:</strong> <br><a href="https://www.smilefoundationindia.org/"
-    title="Smile Foundation website"><img src="https://i.postimg.cc/3NXzyzfr/icons8-website-50.png"></a><a
-    href="https://instagram.com/smilefoundationindia?igshid=YmMyMTA2M2Y=" title="Smile
-    Instagran"><img src="https://i.postimg.cc/T1dJ9SY3/icons8-instagram-48.png"></a><a
-    href="" title=""><img src="https://i.postimg.cc/2SRVNWh4/icons8-facebook-48.png"></a><br><br><strong>Donate
-    through their website :</strong> <br><a href="https://www.smilefoundationindia.org/"
-    title="Donate through Smile"><img src="https://i.postimg.cc/c1t3q0PG/Donate-Now-3.png"></a>
-  media:
-    image: "/uploads/2022/05/26/social-media-5187243_1280.png"
     alt_text: ''
 - template: simple-footer
   block: footer-1
